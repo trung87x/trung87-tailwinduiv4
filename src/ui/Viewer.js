@@ -73,8 +73,8 @@ export async function showViewer(category, slug) {
           <!-- vùng cuộn ngang -->
           <div id="scroll-${v.id}" class="overflow-x-auto">
             <!-- khung bọc có width đúng bằng iframe để cuộn -->
-            <div id="wrap-${v.id}" class="inline-block">
-              <iframe id="pv-${v.id}" class="block h-[420px] bg-white rounded shadow-sm"></iframe>
+            <div id="wrap-${v.id}" class="inline-block w-full px-4">
+              <iframe id="pv-${v.id}" class="block w-full h-[420px] bg-white rounded shadow-sm"></iframe>
             </div>
           </div>
 
@@ -103,7 +103,7 @@ export async function showViewer(category, slug) {
     });
 
     // Hiện code (escaped để an toàn)
-    document.getElementById(`code-${v.id}`).textContent = escapeHtml(html);
+    document.getElementById(`code-${v.id}`).textContent = html;
 
     // Tab switch
     const wrap = document.getElementById(`wrap-${v.id}`);
@@ -124,7 +124,7 @@ export async function showViewer(category, slug) {
     function applyWidth(size) {
       // ✅ CHANGED
       if (size === "full") {
-        iframe.style.width = "1280px";
+        iframe.style.width = "100%";
         wrap.style.maxWidth = "none";
         wrap.style.marginLeft = "";
         wrap.style.marginRight = "";
