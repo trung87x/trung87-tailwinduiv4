@@ -40,50 +40,47 @@ export async function showViewer(category, slug) {
       ${meta.variants
         .map(
           (v) => `
-      <section class="border rounded overflow-hidden" data-variant="${v.id}">
+      <section class="border rounded overflow-hidden">
         <header class="flex items-center justify-between px-3 py-2 border-b">
           <div class="font-medium">${v.label}</div>
           <div class="flex items-center gap-2 text-sm">
             <!-- Segmented: Preview | Code -->
             <div class="inline-flex rounded border overflow-hidden" role="tablist">
-              <button class="px-3 py-1.5" data-tab="preview">Preview</button>
-              <button class="px-3 py-1.5 border-l" data-tab="code">Code</button>
+              <button class="px-3 py-1.5" data-tab="${v.id}" data-to="preview">Preview</button>
+              <button class="px-3 py-1.5 border-l" data-tab="${v.id}" data-to="code">Code</button>
             </div>
             <!-- Device widths -->
             <div class="inline-flex rounded border overflow-hidden">
-              <button class="px-2 py-1.5" title="Mobile" data-width="480">📱</button>
-              <button class="px-2 py-1.5 border-l" title="Tablet" data-width="1024">📟</button>
-              <button class="px-2 py-1.5 border-l" title="Desktop" data-width="1280">🖥️</button>
-              <button class="px-2 py-1.5 border-l" title="Full" data-width="full">↔</button>
+              <button class="px-2 py-1.5" title="Mobile" data-w="${v.id}" data-size="480">📱</button>
+              <button class="px-2 py-1.5 border-l" title="Tablet" data-w="${v.id}" data-size="1024">📟</button>
+              <button class="px-2 py-1.5 border-l" title="Desktop" data-w="${v.id}" data-size="1280">🖥️</button>
+              <button class="px-2 py-1.5 border-l" title="Full" data-w="${v.id}" data-size="full">↔</button>
             </div>
             <!-- Dark -->
-            <button class="px-2 py-1.5 rounded border" data-dark-toggle title="Dark mode">🌙</button>
+            <button class="px-2 py-1.5 rounded border" data-dark="${v.id}" title="Dark mode">🌙</button>
             <!-- Lang -->
-            <select class="px-2 py-1.5 rounded border bg-white" data-lang>
+            <select class="px-2 py-1.5 rounded border bg-white" data-lang="${v.id}">
               <option value="html" selected>HTML</option>
               <option value="react" disabled>React</option>
               <option value="vue" disabled>Vue</option>
             </select>
             <!-- Copy -->
-            <button class="px-2 py-1.5 rounded border" data-copy title="Copy code">📋</button>
+            <button class="px-2 py-1.5 rounded border" data-copy="${v.id}" title="Copy code">📋</button>
           </div>
         </header>
 
         <div class="p-3">
           <!-- vùng cuộn ngang -->
-          <div class="overflow-x-auto">
+          <div id="scroll-${v.id}" class="overflow-x-auto">
             <!-- khung bọc có width đúng bằng iframe để cuộn -->
-            <div class="block" data-wrap>
-              <iframe
-                class="block min-h-[320px] w-full bg-white rounded shadow-sm transition-[width] duration-200"
-                data-iframe
-              ></iframe>
+            <div id="wrap-${v.id}" class="inline-block">
+              <iframe id="pv-${v.id}" class="block h-[420px] bg-white rounded shadow-sm"></iframe>
             </div>
           </div>
 
           <!-- Code -->
-          <pre class="hidden bg-zinc-900 text-zinc-50 p-3 text-sm overflow-auto mt-3 rounded" data-code-box>
-<code data-code>Loading…</code>
+          <pre id="box-${v.id}" class="hidden bg-zinc-900 text-zinc-50 p-3 text-sm overflow-auto mt-3 rounded">
+<code id="code-${v.id}">Loading…</code>
           </pre>
         </div>
       </section>
@@ -98,8 +95,7 @@ export async function showViewer(category, slug) {
     const html = await htmlFiles[v.path]();
 
     // Render preview mặc định
-    const section = main.querySelector(`[data-variant="${v.id}"]`);
-    const iframe = section.querySelector("[data-iframe]");
+    const iframe = document.getElementById(`pv-${v.id}`);
     let isDark = false;
     await renderInSandbox(iframe, html, {
       dark: isDark,
@@ -107,47 +103,46 @@ export async function showViewer(category, slug) {
     });
 
     // Hiện code (escaped để an toàn)
-    section.querySelector("[data-code]").textContent = escapeHtml(html);
+    document.getElementById(`code-${v.id}`).textContent = escapeHtml(html);
 
     // Tab switch
-    const wrap = section.querySelector("[data-wrap]");
-    const codeBox = section.querySelector("[data-code-box]");
-    const tabBtns = [...section.querySelectorAll("[data-tab]")];
+    const wrap = document.getElementById(`wrap-${v.id}`);
+    const codeBox = document.getElementById(`box-${v.id}`);
+    const tabBtns = [...document.querySelectorAll(`[data-tab="${v.id}"]`)];
     function switchTab(to) {
       const showPreview = to === "preview";
       wrap.classList.toggle("hidden", !showPreview);
       codeBox.classList.toggle("hidden", showPreview);
-      tabBtns.forEach((b) => b.classList.toggle("bg-zinc-100", b.dataset.tab === to));
+      tabBtns.forEach((b) =>
+        b.classList.toggle("bg-zinc-100", b.dataset.to === to),
+      );
     }
-    tabBtns.forEach((b) => (b.onclick = () => switchTab(b.dataset.tab)));
+    tabBtns.forEach((b) => (b.onclick = () => switchTab(b.dataset.to)));
     switchTab("preview");
 
     // Device widths — đổi width của CHÍNH iframe ✅
     function applyWidth(size) {
+      // ✅ CHANGED
       if (size === "full") {
-        iframe.style.width = "100%";
-        iframe.style.maxWidth = "100%";
-        wrap.style.width = "100%";
-        wrap.style.maxWidth = "100%";
+        iframe.style.width = "1280px";
+        wrap.style.maxWidth = "none";
         wrap.style.marginLeft = "";
         wrap.style.marginRight = "";
       } else {
         const px = String(size).endsWith("px") ? String(size) : `${size}px`;
-        iframe.style.width = px;
-        iframe.style.maxWidth = "100%";
-        wrap.style.width = px;
-        wrap.style.maxWidth = "100%";
+        iframe.style.width = px; // ✅ CHANGED
+        wrap.style.maxWidth = px; // center cho gọn
         wrap.style.marginLeft = "auto";
         wrap.style.marginRight = "auto";
       }
     }
     applyWidth("full");
-    section.querySelectorAll("[data-width]").forEach((b) => {
-      b.onclick = () => applyWidth(b.dataset.width);
+    document.querySelectorAll(`[data-w="${v.id}"]`).forEach((b) => {
+      b.onclick = () => applyWidth(b.dataset.size);
     });
 
     // Dark toggle
-    section.querySelector("[data-dark-toggle]").onclick = async () => {
+    document.querySelector(`[data-dark="${v.id}"]`).onclick = async () => {
       isDark = !isDark;
       await renderInSandbox(iframe, html, {
         dark: isDark,
@@ -156,7 +151,7 @@ export async function showViewer(category, slug) {
     };
 
     // Copy
-    section.querySelector("[data-copy]").onclick = () =>
+    document.querySelector(`[data-copy="${v.id}"]`).onclick = () =>
       navigator.clipboard.writeText(html);
   }
 }
