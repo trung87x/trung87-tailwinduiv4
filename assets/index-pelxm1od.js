@@ -31,7 +31,11 @@
   ${l?'<script defer src="https://unpkg.com/alpinejs"><\/script>':""}
   <style>
     html, body { height:auto; }
-    body { margin:0; background:#f4f4f5; }
+    body {
+      margin: 0;
+      background: ${o?"#09090b":"#f4f4f5"};
+      color: ${o?"#e4e4e7":"#09090b"};
+    }
   </style>
 </head>
 <body class="p-4">
