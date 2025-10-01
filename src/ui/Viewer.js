@@ -74,7 +74,7 @@ export async function showViewer(category, slug) {
           <div id="scroll-${v.id}" class="overflow-x-auto">
             <!-- khung bọc có width đúng bằng iframe để cuộn -->
             <div id="wrap-${v.id}" class="inline-block w-full px-4">
-              <iframe id="pv-${v.id}" class="block w-full h-[420px] bg-white rounded shadow-sm"></iframe>
+              <iframe id="pv-${v.id}" class="block w-full bg-white rounded shadow-sm"></iframe>
             </div>
           </div>
 
