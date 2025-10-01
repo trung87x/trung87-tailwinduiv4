@@ -38,6 +38,7 @@
 </head>
 <body class="min-h-dvh p-4">
 ${a}
+<script type="module" src="/src/app/main.js"><\/script>
 </body>
 </html>`),i.close()}let g=null;async function xc(t){g||(g=await A());const a=g.filter(l=>l.category===t),o=document.getElementById("main");o.innerHTML=`
     <h1 class="text-xl font-semibold mb-3">Category: ${t}</h1>
