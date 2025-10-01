@@ -73,11 +73,8 @@ export async function showViewer(category, slug) {
           <!-- vùng cuộn ngang -->
           <div id="scroll-${v.id}" class="overflow-x-auto">
             <!-- khung bọc có width đúng bằng iframe để cuộn -->
-            <div id="wrap-${v.id}" class="block">
-              <iframe
-                id="pv-${v.id}"
-                class="block min-h-[320px] w-full bg-white rounded shadow-sm transition-[width] duration-200"
-              ></iframe>
+            <div id="wrap-${v.id}" class="inline-block">
+              <iframe id="pv-${v.id}" class="block h-[420px] bg-white rounded shadow-sm"></iframe>
             </div>
           </div>
 
@@ -125,19 +122,16 @@ export async function showViewer(category, slug) {
 
     // Device widths — đổi width của CHÍNH iframe ✅
     function applyWidth(size) {
+      // ✅ CHANGED
       if (size === "full") {
-        iframe.style.width = "100%";
-        iframe.style.maxWidth = "100%";
-        wrap.style.width = "100%";
-        wrap.style.maxWidth = "100%";
+        iframe.style.width = "1280px";
+        wrap.style.maxWidth = "none";
         wrap.style.marginLeft = "";
         wrap.style.marginRight = "";
       } else {
         const px = String(size).endsWith("px") ? String(size) : `${size}px`;
-        iframe.style.width = px;
-        iframe.style.maxWidth = "100%";
-        wrap.style.width = px;
-        wrap.style.maxWidth = "100%";
+        iframe.style.width = px; // ✅ CHANGED
+        wrap.style.maxWidth = px; // center cho gọn
         wrap.style.marginLeft = "auto";
         wrap.style.marginRight = "auto";
       }
