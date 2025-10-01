@@ -12,8 +12,10 @@ export async function renderInSandbox(
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="${appCssUrl}"></link>
+  <!-- CSS -->
+  <link rel="stylesheet" href="${appCssUrl}">
   ${alpine ? '<script defer src="https://unpkg.com/alpinejs"></script>' : ""}
+
   <style>
     html, body { height:auto; }
     body {
@@ -23,6 +25,7 @@ export async function renderInSandbox(
     }
   </style>
 </head>
+
 <body class="p-4">
 ${html}
 <script>
