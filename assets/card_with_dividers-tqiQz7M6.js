@@ -1,0 +1,10 @@
+const d=`<div class="overflow-hidden rounded-md bg-white shadow-sm">
+  <ul role="list" class="divide-y divide-gray-200">
+    <li class="px-6 py-4">
+      <!-- Your content -->
+    </li>
+
+    <!-- More items... -->
+  </ul>
+</div>
+`;export{d as default};
