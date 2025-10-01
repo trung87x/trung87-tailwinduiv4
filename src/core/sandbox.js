@@ -21,6 +21,7 @@ export async function renderInSandbox(
 </head>
 <body class="min-h-dvh p-4">
 ${html}
+<script type="module" src="/src/app/main.js"></script>
 </body>
 </html>`);
   doc.close();
