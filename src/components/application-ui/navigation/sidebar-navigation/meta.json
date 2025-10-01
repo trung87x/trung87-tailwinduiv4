@@ -1,0 +1,34 @@
+{
+  "title": "Navigation – Sidebar Navigation",
+  "slug": "navigation/sidebar-navigation",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "brand",
+      "label": "Brand",
+      "file": "brand.html"
+    },
+    {
+      "id": "dark",
+      "label": "Dark",
+      "file": "dark.html"
+    },
+    {
+      "id": "light",
+      "label": "Light",
+      "file": "light.html"
+    },
+    {
+      "id": "with-expandable-sections",
+      "label": "With Expandable Sections",
+      "file": "with_expandable_sections.html"
+    },
+    {
+      "id": "with-secondary-navigation",
+      "label": "With Secondary Navigation",
+      "file": "with_secondary_navigation.html"
+    }
+  ],
+  "props": {}
+}

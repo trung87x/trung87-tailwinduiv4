@@ -1,0 +1,34 @@
+{
+  "title": "Data Display – Stats",
+  "slug": "data-display/stats",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-in-cards",
+      "label": "Simple In Cards",
+      "file": "simple_in_cards.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "with-brand-icon",
+      "label": "With Brand Icon",
+      "file": "with_brand_icon.html"
+    },
+    {
+      "id": "with-shared-borders",
+      "label": "With Shared Borders",
+      "file": "with_shared_borders.html"
+    },
+    {
+      "id": "with-trending",
+      "label": "With Trending",
+      "file": "with_trending.html"
+    }
+  ],
+  "props": {}
+}

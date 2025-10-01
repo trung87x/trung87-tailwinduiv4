@@ -1,0 +1,34 @@
+{
+  "title": "Forms – Toggles",
+  "slug": "forms/toggles",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "short-toggle",
+      "label": "Short Toggle",
+      "file": "short_toggle.html"
+    },
+    {
+      "id": "simple-toggle",
+      "label": "Simple Toggle",
+      "file": "simple_toggle.html"
+    },
+    {
+      "id": "toggle-with-icon",
+      "label": "Toggle With Icon",
+      "file": "toggle_with_icon.html"
+    },
+    {
+      "id": "with-left-label-and-description",
+      "label": "With Left Label And Description",
+      "file": "with_left_label_and_description.html"
+    },
+    {
+      "id": "with-right-label",
+      "label": "With Right Label",
+      "file": "with_right_label.html"
+    }
+  ],
+  "props": {}
+}

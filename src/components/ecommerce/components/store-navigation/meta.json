@@ -1,0 +1,34 @@
+{
+  "title": "Components – Store Navigation",
+  "slug": "components/store-navigation",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-centered-logo-and-featured-categories",
+      "label": "With Centered Logo And Featured Categories",
+      "file": "with_centered_logo_and_featured_categories.html"
+    },
+    {
+      "id": "with-double-column-and-persistent-mobile-nav",
+      "label": "With Double Column And Persistent Mobile Nav",
+      "file": "with_double_column_and_persistent_mobile_nav.html"
+    },
+    {
+      "id": "with-featured-categories",
+      "label": "With Featured Categories",
+      "file": "with_featured_categories.html"
+    },
+    {
+      "id": "with-image-grid",
+      "label": "With Image Grid",
+      "file": "with_image_grid.html"
+    },
+    {
+      "id": "with-simple-menu-and-promo",
+      "label": "With Simple Menu And Promo",
+      "file": "with_simple_menu_and_promo.html"
+    }
+  ],
+  "props": {}
+}

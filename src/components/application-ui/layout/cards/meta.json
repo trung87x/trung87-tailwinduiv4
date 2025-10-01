@@ -1,0 +1,59 @@
+{
+  "title": "Layout – Cards",
+  "slug": "layout/cards",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "basic-card",
+      "label": "Basic Card",
+      "file": "basic_card.html"
+    },
+    {
+      "id": "card-edge-to-edge-on-mobile",
+      "label": "Card Edge To Edge On Mobile",
+      "file": "card__edge_to_edge_on_mobile.html"
+    },
+    {
+      "id": "card-with-footer",
+      "label": "Card With Footer",
+      "file": "card_with_footer.html"
+    },
+    {
+      "id": "card-with-gray-body",
+      "label": "Card With Gray Body",
+      "file": "card_with_gray_body.html"
+    },
+    {
+      "id": "card-with-gray-footer",
+      "label": "Card With Gray Footer",
+      "file": "card_with_gray_footer.html"
+    },
+    {
+      "id": "card-with-header-and-footer",
+      "label": "Card With Header And Footer",
+      "file": "card_with_header_and_footer.html"
+    },
+    {
+      "id": "card-with-header",
+      "label": "Card With Header",
+      "file": "card_with_header.html"
+    },
+    {
+      "id": "well-edge-to-edge-on-mobile",
+      "label": "Well Edge To Edge On Mobile",
+      "file": "well__edge_to_edge_on_mobile.html"
+    },
+    {
+      "id": "well-on-gray",
+      "label": "Well On Gray",
+      "file": "well_on_gray.html"
+    },
+    {
+      "id": "well",
+      "label": "Well",
+      "file": "well.html"
+    }
+  ],
+  "props": {}
+}

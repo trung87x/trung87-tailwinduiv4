@@ -1,0 +1,54 @@
+{
+  "title": "Sections – Team Sections",
+  "slug": "sections/team-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "dark-version-with-large-images",
+      "label": "Dark Version With Large Images",
+      "file": "dark_version_with_large_images.html"
+    },
+    {
+      "id": "full-width-with-vertical-images",
+      "label": "Full Width With Vertical Images",
+      "file": "full_width_with_vertical_images.html"
+    },
+    {
+      "id": "grid-with-large-round-images",
+      "label": "Grid With Large Round Images",
+      "file": "grid_with_large_round_images.html"
+    },
+    {
+      "id": "grid-with-round-images",
+      "label": "Grid With Round Images",
+      "file": "grid_with_round_images.html"
+    },
+    {
+      "id": "with-image-and-short-paragraph",
+      "label": "With Image And Short Paragraph",
+      "file": "with_image_and_short_paragraph.html"
+    },
+    {
+      "id": "with-large-images",
+      "label": "With Large Images",
+      "file": "with_large_images.html"
+    },
+    {
+      "id": "with-medium-images-on-dark",
+      "label": "With Medium Images On Dark",
+      "file": "with_medium_images_on_dark.html"
+    },
+    {
+      "id": "with-small-images",
+      "label": "With Small Images",
+      "file": "with_small_images.html"
+    },
+    {
+      "id": "with-vertical-images",
+      "label": "With Vertical Images",
+      "file": "with_vertical_images.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Components – Order History",
+  "slug": "components/order-history",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "invoice-list-with-quick-actions",
+      "label": "Invoice List With Quick Actions",
+      "file": "invoice_list_with_quick_actions.html"
+    },
+    {
+      "id": "invoice-list",
+      "label": "Invoice List",
+      "file": "invoice_list.html"
+    },
+    {
+      "id": "invoice-panels",
+      "label": "Invoice Panels",
+      "file": "invoice_panels.html"
+    },
+    {
+      "id": "invoice-table",
+      "label": "Invoice Table",
+      "file": "invoice_table.html"
+    }
+  ],
+  "props": {}
+}

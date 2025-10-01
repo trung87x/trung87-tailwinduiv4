@@ -1,0 +1,49 @@
+{
+  "title": "Navigation – Progress Bars",
+  "slug": "navigation/progress-bars",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "bullets-and-text",
+      "label": "Bullets And Text",
+      "file": "bullets_and_text.html"
+    },
+    {
+      "id": "bullets",
+      "label": "Bullets",
+      "file": "bullets.html"
+    },
+    {
+      "id": "circles-with-text",
+      "label": "Circles With Text",
+      "file": "circles_with_text.html"
+    },
+    {
+      "id": "circles",
+      "label": "Circles",
+      "file": "circles.html"
+    },
+    {
+      "id": "panels-with-border",
+      "label": "Panels With Border",
+      "file": "panels_with_border.html"
+    },
+    {
+      "id": "panels",
+      "label": "Panels",
+      "file": "panels.html"
+    },
+    {
+      "id": "progress-bar",
+      "label": "Progress Bar",
+      "file": "progress_bar.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    }
+  ],
+  "props": {}
+}

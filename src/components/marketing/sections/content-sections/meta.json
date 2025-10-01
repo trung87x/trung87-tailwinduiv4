@@ -1,0 +1,44 @@
+{
+  "title": "Sections – Content Sections",
+  "slug": "sections/content-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered",
+      "label": "Centered",
+      "file": "centered.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "two-columns-with-screenshot",
+      "label": "Two Columns With Screenshot",
+      "file": "two_columns_with_screenshot.html"
+    },
+    {
+      "id": "with-image-titles",
+      "label": "With Image Titles",
+      "file": "with_image_titles.html"
+    },
+    {
+      "id": "with-sticky-product-screenshot",
+      "label": "With Sticky Product Screenshot",
+      "file": "with_sticky_product_screenshot.html"
+    },
+    {
+      "id": "with-testimonial-and-stats",
+      "label": "With Testimonial And Stats",
+      "file": "with_testimonial_and_stats.html"
+    },
+    {
+      "id": "with-testimonial",
+      "label": "With Testimonial",
+      "file": "with_testimonial.html"
+    }
+  ],
+  "props": {}
+}

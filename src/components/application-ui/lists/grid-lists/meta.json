@@ -1,0 +1,44 @@
+{
+  "title": "Lists – Grid Lists",
+  "slug": "lists/grid-lists",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "actions-with-shared-borders",
+      "label": "Actions With Shared Borders",
+      "file": "actions_with_shared_borders.html"
+    },
+    {
+      "id": "contact-cards-with-small-portraits",
+      "label": "Contact Cards With Small Portraits",
+      "file": "contact_cards_with_small_portraits.html"
+    },
+    {
+      "id": "contact-cards",
+      "label": "Contact Cards",
+      "file": "contact_cards.html"
+    },
+    {
+      "id": "horizontal-link-cards",
+      "label": "Horizontal Link Cards",
+      "file": "horizontal_link_cards.html"
+    },
+    {
+      "id": "images-with-details",
+      "label": "Images With Details",
+      "file": "images_with_details.html"
+    },
+    {
+      "id": "logos-cards-with-description-list",
+      "label": "Logos Cards With Description List",
+      "file": "logos_cards_with_description_list.html"
+    },
+    {
+      "id": "simple-cards",
+      "label": "Simple Cards",
+      "file": "simple_cards.html"
+    }
+  ],
+  "props": {}
+}

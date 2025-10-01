@@ -1,0 +1,19 @@
+{
+  "title": "Page Examples – Detail Screens",
+  "slug": "page-examples/detail-screens",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "sidebar-on-dark",
+      "label": "Sidebar On Dark",
+      "file": "sidebar_on_dark.html"
+    },
+    {
+      "id": "stacked",
+      "label": "Stacked",
+      "file": "stacked.html"
+    }
+  ],
+  "props": {}
+}

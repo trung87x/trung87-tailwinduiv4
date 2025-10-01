@@ -1,0 +1,74 @@
+{
+  "title": "Headings – Page Headings",
+  "slug": "headings/page-headings",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "card-with-avatar-and-stats",
+      "label": "Card With Avatar And Stats",
+      "file": "card_with_avatar_and_stats.html"
+    },
+    {
+      "id": "with-actions-and-breadcrumbs-on-dark",
+      "label": "With Actions And Breadcrumbs On Dark",
+      "file": "with_actions_and_breadcrumbs_on_dark.html"
+    },
+    {
+      "id": "with-actions-and-breadcrumbs",
+      "label": "With Actions And Breadcrumbs",
+      "file": "with_actions_and_breadcrumbs.html"
+    },
+    {
+      "id": "with-actions-on-dark",
+      "label": "With Actions On Dark",
+      "file": "with_actions_on_dark.html"
+    },
+    {
+      "id": "with-actions",
+      "label": "With Actions",
+      "file": "with_actions.html"
+    },
+    {
+      "id": "with-avatar-and-actions",
+      "label": "With Avatar And Actions",
+      "file": "with_avatar_and_actions.html"
+    },
+    {
+      "id": "with-banner-image",
+      "label": "With Banner Image",
+      "file": "with_banner_image.html"
+    },
+    {
+      "id": "with-filters-and-action",
+      "label": "With Filters And Action",
+      "file": "with_filters_and_action.html"
+    },
+    {
+      "id": "with-logo-meta-and-actions",
+      "label": "With Logo Meta And Actions",
+      "file": "with_logo__meta_and_actions.html"
+    },
+    {
+      "id": "with-meta-actions-and-breadcrumbs-on-dark",
+      "label": "With Meta Actions And Breadcrumbs On Dark",
+      "file": "with_meta__actions__and_breadcrumbs_on_dark.html"
+    },
+    {
+      "id": "with-meta-actions-and-breadcrumbs",
+      "label": "With Meta Actions And Breadcrumbs",
+      "file": "with_meta__actions__and_breadcrumbs.html"
+    },
+    {
+      "id": "with-meta-and-actions-on-dark",
+      "label": "With Meta And Actions On Dark",
+      "file": "with_meta_and_actions_on_dark.html"
+    },
+    {
+      "id": "with-meta-and-actions",
+      "label": "With Meta And Actions",
+      "file": "with_meta_and_actions.html"
+    }
+  ],
+  "props": {}
+}

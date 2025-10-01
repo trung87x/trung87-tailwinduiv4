@@ -1,0 +1,114 @@
+{
+  "title": "Forms – Input Groups",
+  "slug": "forms/input-groups",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "input-with-add-on",
+      "label": "Input With Add On",
+      "file": "input_with_add_on.html"
+    },
+    {
+      "id": "input-with-corner-hint",
+      "label": "Input With Corner Hint",
+      "file": "input_with_corner_hint.html"
+    },
+    {
+      "id": "input-with-disabled-state",
+      "label": "Input With Disabled State",
+      "file": "input_with_disabled_state.html"
+    },
+    {
+      "id": "input-with-gray-background-and-bottom-border",
+      "label": "Input With Gray Background And Bottom Border",
+      "file": "input_with_gray_background_and_bottom_border.html"
+    },
+    {
+      "id": "input-with-hidden-label",
+      "label": "Input With Hidden Label",
+      "file": "input_with_hidden_label.html"
+    },
+    {
+      "id": "input-with-inline-add-on",
+      "label": "Input With Inline Add On",
+      "file": "input_with_inline_add_on.html"
+    },
+    {
+      "id": "input-with-inline-leading-add-on-and-trailing-dropdown",
+      "label": "Input With Inline Leading Add On And Trailing Dropdown",
+      "file": "input_with_inline_leading_add_on_and_trailing_dropdown.html"
+    },
+    {
+      "id": "input-with-inline-leading-and-trailing-add-ons",
+      "label": "Input With Inline Leading And Trailing Add Ons",
+      "file": "input_with_inline_leading_and_trailing_add_ons.html"
+    },
+    {
+      "id": "input-with-inline-leading-dropdown",
+      "label": "Input With Inline Leading Dropdown",
+      "file": "input_with_inline_leading_dropdown.html"
+    },
+    {
+      "id": "input-with-inset-label",
+      "label": "Input With Inset Label",
+      "file": "input_with_inset_label.html"
+    },
+    {
+      "id": "input-with-keyboard-shortcut",
+      "label": "Input With Keyboard Shortcut",
+      "file": "input_with_keyboard_shortcut.html"
+    },
+    {
+      "id": "input-with-label-and-help-text",
+      "label": "Input With Label And Help Text",
+      "file": "input_with_label_and_help_text.html"
+    },
+    {
+      "id": "input-with-label",
+      "label": "Input With Label",
+      "file": "input_with_label.html"
+    },
+    {
+      "id": "input-with-leading-icon-and-trailing-button",
+      "label": "Input With Leading Icon And Trailing Button",
+      "file": "input_with_leading_icon_and_trailing_button.html"
+    },
+    {
+      "id": "input-with-leading-icon",
+      "label": "Input With Leading Icon",
+      "file": "input_with_leading_icon.html"
+    },
+    {
+      "id": "input-with-overlapping-label",
+      "label": "Input With Overlapping Label",
+      "file": "input_with_overlapping_label.html"
+    },
+    {
+      "id": "input-with-pill-shape",
+      "label": "Input With Pill Shape",
+      "file": "input_with_pill_shape.html"
+    },
+    {
+      "id": "input-with-trailing-icon",
+      "label": "Input With Trailing Icon",
+      "file": "input_with_trailing_icon.html"
+    },
+    {
+      "id": "input-with-validation-error",
+      "label": "Input With Validation Error",
+      "file": "input_with_validation_error.html"
+    },
+    {
+      "id": "inputs-with-inset-labels-and-shared-borders",
+      "label": "Inputs With Inset Labels And Shared Borders",
+      "file": "inputs_with_inset_labels_and_shared_borders.html"
+    },
+    {
+      "id": "inputs-with-shared-borders",
+      "label": "Inputs With Shared Borders",
+      "file": "inputs_with_shared_borders.html"
+    }
+  ],
+  "props": {}
+}

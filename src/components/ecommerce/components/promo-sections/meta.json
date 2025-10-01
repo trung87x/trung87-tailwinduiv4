@@ -1,0 +1,49 @@
+{
+  "title": "Components – Promo Sections",
+  "slug": "components/promo-sections",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "full-width-with-background-image-and-large-content",
+      "label": "Full Width With Background Image And Large Content",
+      "file": "full_width_with_background_image_and_large_content.html"
+    },
+    {
+      "id": "full-width-with-background-image",
+      "label": "Full Width With Background Image",
+      "file": "full_width_with_background_image.html"
+    },
+    {
+      "id": "full-width-with-overlapping-image-tiles",
+      "label": "Full Width With Overlapping Image Tiles",
+      "file": "full_width_with_overlapping_image_tiles.html"
+    },
+    {
+      "id": "with-background-image",
+      "label": "With Background Image",
+      "file": "with_background_image.html"
+    },
+    {
+      "id": "with-fading-background-image-and-testimonials",
+      "label": "With Fading Background Image And Testimonials",
+      "file": "with_fading_background_image_and_testimonials.html"
+    },
+    {
+      "id": "with-image-tiles",
+      "label": "With Image Tiles",
+      "file": "with_image_tiles.html"
+    },
+    {
+      "id": "with-offers-and-split-image",
+      "label": "With Offers And Split Image",
+      "file": "with_offers_and_split_image.html"
+    },
+    {
+      "id": "with-overlapping-image-tiles",
+      "label": "With Overlapping Image Tiles",
+      "file": "with_overlapping_image_tiles.html"
+    }
+  ],
+  "props": {}
+}

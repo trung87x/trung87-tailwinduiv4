@@ -1,0 +1,69 @@
+{
+  "title": "Overlays – Drawers",
+  "slug": "overlays/drawers",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "contact-list-example",
+      "label": "Contact List Example",
+      "file": "contact_list_example.html"
+    },
+    {
+      "id": "create-project-form-example",
+      "label": "Create Project Form Example",
+      "file": "create_project_form_example.html"
+    },
+    {
+      "id": "empty",
+      "label": "Empty",
+      "file": "empty.html"
+    },
+    {
+      "id": "file-details-example",
+      "label": "File Details Example",
+      "file": "file_details_example.html"
+    },
+    {
+      "id": "user-profile-example",
+      "label": "User Profile Example",
+      "file": "user_profile_example.html"
+    },
+    {
+      "id": "wide-create-project-form-example",
+      "label": "Wide Create Project Form Example",
+      "file": "wide_create_project_form_example.html"
+    },
+    {
+      "id": "wide-empty",
+      "label": "Wide Empty",
+      "file": "wide_empty.html"
+    },
+    {
+      "id": "wide-horizontal-user-profile-example",
+      "label": "Wide Horizontal User Profile Example",
+      "file": "wide_horizontal_user_profile_example.html"
+    },
+    {
+      "id": "with-background-overlay",
+      "label": "With Background Overlay",
+      "file": "with_background_overlay.html"
+    },
+    {
+      "id": "with-branded-header",
+      "label": "With Branded Header",
+      "file": "with_branded_header.html"
+    },
+    {
+      "id": "with-close-button-on-outside",
+      "label": "With Close Button On Outside",
+      "file": "with_close_button_on_outside.html"
+    },
+    {
+      "id": "with-sticky-footer",
+      "label": "With Sticky Footer",
+      "file": "with_sticky_footer.html"
+    }
+  ],
+  "props": {}
+}

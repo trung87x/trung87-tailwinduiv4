@@ -1,0 +1,34 @@
+{
+  "title": "Forms – Comboboxes",
+  "slug": "forms/comboboxes",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-check-on-left",
+      "label": "With Check On Left",
+      "file": "with_check_on_left.html"
+    },
+    {
+      "id": "with-image",
+      "label": "With Image",
+      "file": "with_image.html"
+    },
+    {
+      "id": "with-secondary-text",
+      "label": "With Secondary Text",
+      "file": "with_secondary_text.html"
+    },
+    {
+      "id": "with-status-indicator",
+      "label": "With Status Indicator",
+      "file": "with_status_indicator.html"
+    }
+  ],
+  "props": {}
+}

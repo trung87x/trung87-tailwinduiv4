@@ -1,0 +1,64 @@
+{
+  "title": "Elements – Avatars",
+  "slug": "elements/avatars",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "avatar-group-stacked-bottom-to-top",
+      "label": "Avatar Group Stacked Bottom To Top",
+      "file": "avatar_group_stacked_bottom_to_top.html"
+    },
+    {
+      "id": "avatar-group-stacked-top-to-bottom",
+      "label": "Avatar Group Stacked Top To Bottom",
+      "file": "avatar_group_stacked_top_to_bottom.html"
+    },
+    {
+      "id": "circular-avatars-with-bottom-notification",
+      "label": "Circular Avatars With Bottom Notification",
+      "file": "circular_avatars_with_bottom_notification.html"
+    },
+    {
+      "id": "circular-avatars-with-placeholder-icon",
+      "label": "Circular Avatars With Placeholder Icon",
+      "file": "circular_avatars_with_placeholder_icon.html"
+    },
+    {
+      "id": "circular-avatars-with-placeholder-initials",
+      "label": "Circular Avatars With Placeholder Initials",
+      "file": "circular_avatars_with_placeholder_initials.html"
+    },
+    {
+      "id": "circular-avatars-with-top-notification",
+      "label": "Circular Avatars With Top Notification",
+      "file": "circular_avatars_with_top_notification.html"
+    },
+    {
+      "id": "circular-avatars",
+      "label": "Circular Avatars",
+      "file": "circular_avatars.html"
+    },
+    {
+      "id": "rounded-avatars-with-bottom-notification",
+      "label": "Rounded Avatars With Bottom Notification",
+      "file": "rounded_avatars_with_bottom_notification.html"
+    },
+    {
+      "id": "rounded-avatars-with-top-notification",
+      "label": "Rounded Avatars With Top Notification",
+      "file": "rounded_avatars_with_top_notification.html"
+    },
+    {
+      "id": "rounded-avatars",
+      "label": "Rounded Avatars",
+      "file": "rounded_avatars.html"
+    },
+    {
+      "id": "with-text",
+      "label": "With Text",
+      "file": "with_text.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Components – Reviews",
+  "slug": "components/reviews",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "avatars-with-separate-description",
+      "label": "Avatars With Separate Description",
+      "file": "avatars_with_separate_description.html"
+    },
+    {
+      "id": "multi-column",
+      "label": "Multi Column",
+      "file": "multi_column.html"
+    },
+    {
+      "id": "simple-with-avatars",
+      "label": "Simple With Avatars",
+      "file": "simple_with_avatars.html"
+    },
+    {
+      "id": "with-summary-chart",
+      "label": "With Summary Chart",
+      "file": "with_summary_chart.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Sections – Logo Clouds",
+  "slug": "sections/logo-clouds",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "grid-on-dark",
+      "label": "Grid On Dark",
+      "file": "grid_on_dark.html"
+    },
+    {
+      "id": "grid",
+      "label": "Grid",
+      "file": "grid.html"
+    },
+    {
+      "id": "simple-left-aligned-on-dark",
+      "label": "Simple Left Aligned On Dark",
+      "file": "simple_left_aligned_on_dark.html"
+    },
+    {
+      "id": "simple-left-aligned",
+      "label": "Simple Left Aligned",
+      "file": "simple_left_aligned.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple-with-call-to-action-on-dark",
+      "label": "Simple With Call To Action On Dark",
+      "file": "simple_with_call_to_action_on_dark.html"
+    },
+    {
+      "id": "simple-with-call-to-action",
+      "label": "Simple With Call To Action",
+      "file": "simple_with_call_to_action.html"
+    },
+    {
+      "id": "simple-with-heading-on-dark",
+      "label": "Simple With Heading On Dark",
+      "file": "simple_with_heading_on_dark.html"
+    },
+    {
+      "id": "simple-with-heading",
+      "label": "Simple With Heading",
+      "file": "simple_with_heading.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "split-with-logos-on-right-on-dark",
+      "label": "Split With Logos On Right On Dark",
+      "file": "split_with_logos_on_right_on_dark.html"
+    },
+    {
+      "id": "split-with-logos-on-right",
+      "label": "Split With Logos On Right",
+      "file": "split_with_logos_on_right.html"
+    }
+  ],
+  "props": {}
+}

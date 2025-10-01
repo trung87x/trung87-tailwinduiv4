@@ -1,0 +1,24 @@
+{
+  "title": "Page Examples – Shopping Cart Pages",
+  "slug": "page-examples/shopping-cart-pages",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-with-policy-grid",
+      "label": "Simple With Policy Grid",
+      "file": "simple_with_policy_grid.html"
+    },
+    {
+      "id": "with-policy-grid-and-extended-summary",
+      "label": "With Policy Grid And Extended Summary",
+      "file": "with_policy_grid_and_extended_summary.html"
+    },
+    {
+      "id": "with-related-products",
+      "label": "With Related Products",
+      "file": "with_related_products.html"
+    }
+  ],
+  "props": {}
+}

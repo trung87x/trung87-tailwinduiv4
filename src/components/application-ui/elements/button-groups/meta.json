@@ -1,0 +1,34 @@
+{
+  "title": "Elements – Button Groups",
+  "slug": "elements/button-groups",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "basic",
+      "label": "Basic",
+      "file": "basic.html"
+    },
+    {
+      "id": "icon-only",
+      "label": "Icon Only",
+      "file": "icon_only.html"
+    },
+    {
+      "id": "with-checkbox-and-dropdown",
+      "label": "With Checkbox And Dropdown",
+      "file": "with_checkbox_and_dropdown.html"
+    },
+    {
+      "id": "with-dropdown",
+      "label": "With Dropdown",
+      "file": "with_dropdown.html"
+    },
+    {
+      "id": "with-stat",
+      "label": "With Stat",
+      "file": "with_stat.html"
+    }
+  ],
+  "props": {}
+}

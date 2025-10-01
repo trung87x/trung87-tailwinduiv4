@@ -1,0 +1,74 @@
+{
+  "title": "Elements – Banners",
+  "slug": "elements/banners",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "bottom-aligned",
+      "label": "Bottom Aligned",
+      "file": "bottom_aligned.html"
+    },
+    {
+      "id": "floating-at-bottom-centered",
+      "label": "Floating At Bottom Centered",
+      "file": "floating_at_bottom_centered.html"
+    },
+    {
+      "id": "floating-at-bottom",
+      "label": "Floating At Bottom",
+      "file": "floating_at_bottom.html"
+    },
+    {
+      "id": "left-aligned",
+      "label": "Left Aligned",
+      "file": "left_aligned.html"
+    },
+    {
+      "id": "on-brand",
+      "label": "On Brand",
+      "file": "on_brand.html"
+    },
+    {
+      "id": "on-dark",
+      "label": "On Dark",
+      "file": "on_dark.html"
+    },
+    {
+      "id": "privacy-notice-centered",
+      "label": "Privacy Notice Centered",
+      "file": "privacy_notice_centered.html"
+    },
+    {
+      "id": "privacy-notice-full-width",
+      "label": "Privacy Notice Full Width",
+      "file": "privacy_notice_full_width.html"
+    },
+    {
+      "id": "privacy-notice-left-aligned",
+      "label": "Privacy Notice Left Aligned",
+      "file": "privacy_notice_left_aligned.html"
+    },
+    {
+      "id": "privacy-notice-right-aligned",
+      "label": "Privacy Notice Right Aligned",
+      "file": "privacy_notice_right_aligned.html"
+    },
+    {
+      "id": "with-background-glow",
+      "label": "With Background Glow",
+      "file": "with_background_glow.html"
+    },
+    {
+      "id": "with-button",
+      "label": "With Button",
+      "file": "with_button.html"
+    },
+    {
+      "id": "with-link",
+      "label": "With Link",
+      "file": "with_link.html"
+    }
+  ],
+  "props": {}
+}

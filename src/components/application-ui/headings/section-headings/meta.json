@@ -1,0 +1,59 @@
+{
+  "title": "Headings – Section Headings",
+  "slug": "headings/section-headings",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-action",
+      "label": "With Action",
+      "file": "with_action.html"
+    },
+    {
+      "id": "with-actions-and-tabs",
+      "label": "With Actions And Tabs",
+      "file": "with_actions_and_tabs.html"
+    },
+    {
+      "id": "with-actions",
+      "label": "With Actions",
+      "file": "with_actions.html"
+    },
+    {
+      "id": "with-badge-and-dropdown",
+      "label": "With Badge And Dropdown",
+      "file": "with_badge_and_dropdown.html"
+    },
+    {
+      "id": "with-description",
+      "label": "With Description",
+      "file": "with_description.html"
+    },
+    {
+      "id": "with-inline-tabs",
+      "label": "With Inline Tabs",
+      "file": "with_inline_tabs.html"
+    },
+    {
+      "id": "with-input-group",
+      "label": "With Input Group",
+      "file": "with_input_group.html"
+    },
+    {
+      "id": "with-label",
+      "label": "With Label",
+      "file": "with_label.html"
+    },
+    {
+      "id": "with-tabs",
+      "label": "With Tabs",
+      "file": "with_tabs.html"
+    }
+  ],
+  "props": {}
+}

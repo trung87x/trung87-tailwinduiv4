@@ -1,0 +1,39 @@
+{
+  "title": "Components – Category Previews",
+  "slug": "components/category-previews",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "three-column-with-description",
+      "label": "Three Column With Description",
+      "file": "three_column_with_description.html"
+    },
+    {
+      "id": "three-column",
+      "label": "Three Column",
+      "file": "three_column.html"
+    },
+    {
+      "id": "with-background-image-and-detail-overlay",
+      "label": "With Background Image And Detail Overlay",
+      "file": "with_background_image_and_detail_overlay.html"
+    },
+    {
+      "id": "with-image-backgrounds",
+      "label": "With Image Backgrounds",
+      "file": "with_image_backgrounds.html"
+    },
+    {
+      "id": "with-scrolling-cards",
+      "label": "With Scrolling Cards",
+      "file": "with_scrolling_cards.html"
+    },
+    {
+      "id": "with-split-images",
+      "label": "With Split Images",
+      "file": "with_split_images.html"
+    }
+  ],
+  "props": {}
+}

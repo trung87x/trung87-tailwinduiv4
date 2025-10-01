@@ -1,0 +1,29 @@
+{
+  "title": "Components – Product Quickviews",
+  "slug": "components/product-quickviews",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-color-and-size-selector",
+      "label": "With Color And Size Selector",
+      "file": "with_color_and_size_selector.html"
+    },
+    {
+      "id": "with-color-selector-size-selector-and-details-link",
+      "label": "With Color Selector Size Selector And Details Link",
+      "file": "with_color_selector__size_selector__and_details_link.html"
+    },
+    {
+      "id": "with-color-selector-and-description",
+      "label": "With Color Selector And Description",
+      "file": "with_color_selector_and_description.html"
+    },
+    {
+      "id": "with-large-size-selector",
+      "label": "With Large Size Selector",
+      "file": "with_large_size_selector.html"
+    }
+  ],
+  "props": {}
+}

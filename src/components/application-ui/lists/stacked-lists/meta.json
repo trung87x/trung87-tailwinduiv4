@@ -1,0 +1,94 @@
+{
+  "title": "Lists – Stacked Lists",
+  "slug": "lists/stacked-lists",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "full-width-with-constrained-content",
+      "label": "Full Width With Constrained Content",
+      "file": "full_width_with_constrained_content.html"
+    },
+    {
+      "id": "full-width-with-links",
+      "label": "Full Width With Links",
+      "file": "full_width_with_links.html"
+    },
+    {
+      "id": "in-card-with-links",
+      "label": "In Card With Links",
+      "file": "in_card_with_links.html"
+    },
+    {
+      "id": "narrow-with-actions",
+      "label": "Narrow With Actions",
+      "file": "narrow_with_actions.html"
+    },
+    {
+      "id": "narrow-with-badges-on-dark",
+      "label": "Narrow With Badges On Dark",
+      "file": "narrow_with_badges_on_dark.html"
+    },
+    {
+      "id": "narrow-with-small-avatars-on-dark",
+      "label": "Narrow With Small Avatars On Dark",
+      "file": "narrow_with_small_avatars_on_dark.html"
+    },
+    {
+      "id": "narrow-with-small-avatars",
+      "label": "Narrow With Small Avatars",
+      "file": "narrow_with_small_avatars.html"
+    },
+    {
+      "id": "narrow-with-sticky-headings",
+      "label": "Narrow With Sticky Headings",
+      "file": "narrow_with_sticky_headings.html"
+    },
+    {
+      "id": "narrow-with-truncated-content",
+      "label": "Narrow With Truncated Content",
+      "file": "narrow_with_truncated_content.html"
+    },
+    {
+      "id": "narrow",
+      "label": "Narrow",
+      "file": "narrow.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "two-columns-with-links",
+      "label": "Two Columns With Links",
+      "file": "two_columns_with_links.html"
+    },
+    {
+      "id": "with-badges-button-and-actions-menu",
+      "label": "With Badges Button And Actions Menu",
+      "file": "with_badges__button__and_actions_menu.html"
+    },
+    {
+      "id": "with-inline-links-and-actions-menu",
+      "label": "With Inline Links And Actions Menu",
+      "file": "with_inline_links_and_actions_menu.html"
+    },
+    {
+      "id": "with-inline-links-and-avatar-group",
+      "label": "With Inline Links And Avatar Group",
+      "file": "with_inline_links_and_avatar_group.html"
+    },
+    {
+      "id": "with-links",
+      "label": "With Links",
+      "file": "with_links.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Layout – List Containers",
+  "slug": "layout/list-containers",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "card-with-dividers-full-width-on-mobile",
+      "label": "Card With Dividers Full Width On Mobile",
+      "file": "card_with_dividers__full_width_on_mobile.html"
+    },
+    {
+      "id": "card-with-dividers",
+      "label": "Card With Dividers",
+      "file": "card_with_dividers.html"
+    },
+    {
+      "id": "flat-card-with-dividers",
+      "label": "Flat Card With Dividers",
+      "file": "flat_card_with_dividers.html"
+    },
+    {
+      "id": "separate-cards-full-width-on-mobile",
+      "label": "Separate Cards Full Width On Mobile",
+      "file": "separate_cards__full_width_on_mobile.html"
+    },
+    {
+      "id": "separate-cards",
+      "label": "Separate Cards",
+      "file": "separate_cards.html"
+    },
+    {
+      "id": "simple-with-dividers-full-width-on-mobile",
+      "label": "Simple With Dividers Full Width On Mobile",
+      "file": "simple_with_dividers__full_width_on_mobile.html"
+    },
+    {
+      "id": "simple-with-dividers",
+      "label": "Simple With Dividers",
+      "file": "simple_with_dividers.html"
+    }
+  ],
+  "props": {}
+}

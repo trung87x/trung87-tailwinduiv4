@@ -1,0 +1,34 @@
+{
+  "title": "Components – Category Filters",
+  "slug": "components/category-filters",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "sidebar-filters",
+      "label": "Sidebar Filters",
+      "file": "sidebar_filters.html"
+    },
+    {
+      "id": "with-centered-text-and-dropdown-product-filters",
+      "label": "With Centered Text And Dropdown Product Filters",
+      "file": "with_centered_text_and_dropdown_product_filters.html"
+    },
+    {
+      "id": "with-dropdown-product-filters",
+      "label": "With Dropdown Product Filters",
+      "file": "with_dropdown_product_filters.html"
+    },
+    {
+      "id": "with-expandable-product-filter-panel",
+      "label": "With Expandable Product Filter Panel",
+      "file": "with_expandable_product_filter_panel.html"
+    },
+    {
+      "id": "with-inline-actions-and-expandable-sidebar-filters",
+      "label": "With Inline Actions And Expandable Sidebar Filters",
+      "file": "with_inline_actions_and_expandable_sidebar_filters.html"
+    }
+  ],
+  "props": {}
+}
