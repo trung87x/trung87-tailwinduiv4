@@ -1,3 +1,5 @@
+import appMainUrl from "../app/main.js?url";
+
 export async function renderInSandbox(
   iframe,
   html,
@@ -19,7 +21,7 @@ export async function renderInSandbox(
 </head>
 <body class="min-h-dvh p-4">
 ${html}
-<script type="module" src="/src/app/main.js"></script>
+<script type="module" src="${appMainUrl}"></script>
 </body>
 </html>`);
   doc.close();
