@@ -10,8 +10,6 @@ export async function renderInSandbox(
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- Dùng Tailwind CDN trong iframe để đảm bảo breakpoints -->
-  <link href="/src/app/style.css" rel="stylesheet" />
   ${alpine ? '<script defer src="https://unpkg.com/alpinejs"></script>' : ""}
   <style>
     /* Giúp nội dung tự co theo khung, tránh tràn */
