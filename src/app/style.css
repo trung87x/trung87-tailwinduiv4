@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "@tailwindplus/elements";
+/* @import "@tailwindplus/elements"; */
 
 @theme {
   --font-sans: InterVariable, sans-serif;
