@@ -1,0 +1,41 @@
+{
+  "title": "Application Shells – Multi column",
+  "slug": "application-shells/multi-column",
+  "category": "application-ui",
+  "tags": ["layout", "shell", "columns"],
+  "hasAlpine": false,
+  "deps": { "alpine": false },
+  "variants": [
+    {
+      "id": "constrained-3",
+      "label": "Constrained 3 col",
+      "file": "constrained_three_column.html"
+    },
+    {
+      "id": "constrained-sticky",
+      "label": "Constrained + sticky",
+      "file": "constrained_with_sticky_columns.html"
+    },
+    {
+      "id": "full-3",
+      "label": "Full width 3 col",
+      "file": "full_width_three_column.html"
+    },
+    {
+      "id": "full-right",
+      "label": "Full width + right secondary",
+      "file": "full_width_secondary_column_on_right.html"
+    },
+    {
+      "id": "narrow",
+      "label": "Narrow sidebar",
+      "file": "full_width_with_narrow_sidebar.html"
+    },
+    {
+      "id": "narrow-header",
+      "label": "Narrow + header",
+      "file": "full_width_with_narrow_sidebar_and_header.html"
+    }
+  ],
+  "props": {}
+}
