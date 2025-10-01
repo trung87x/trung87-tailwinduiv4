@@ -1,4 +1,4 @@
-import appMainUrl from "../app/main.js?url";
+import appCssUrl from "../app/style.css?url";
 
 export async function renderInSandbox(
   iframe,
@@ -12,6 +12,7 @@ export async function renderInSandbox(
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="${appCssUrl}">
   ${alpine ? '<script defer src="https://unpkg.com/alpinejs"></script>' : ""}
   <style>
     /* Giúp nội dung tự co theo khung, tránh tràn */
@@ -21,7 +22,6 @@ export async function renderInSandbox(
 </head>
 <body class="min-h-dvh p-4">
 ${html}
-<script type="module" src="${appMainUrl}"></script>
 </body>
 </html>`);
   doc.close();
