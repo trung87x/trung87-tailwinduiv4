@@ -26,8 +26,7 @@ export function renderInSandbox(
         }
 
         const adjustHeight = () => {
-          const docEl = doc.documentElement;
-          const body = doc.body;
+          const { documentElement: docEl, body } = doc;
           const nextHeight = Math.max(
             MIN_IFRAME_HEIGHT,
             docEl?.scrollHeight ?? 0,
@@ -41,7 +40,7 @@ export function renderInSandbox(
         adjustHeight();
 
         if (typeof win.ResizeObserver === "function") {
-          const ro = new win.ResizeObserver(() => adjustHeight());
+          const ro = new win.ResizeObserver(adjustHeight);
           ro.observe(doc.documentElement);
           ro.observe(doc.body);
           iframe.__sandboxObserver = ro;
@@ -53,14 +52,11 @@ export function renderInSandbox(
 
     iframe.addEventListener("load", handleLoad, { once: true });
 
-    const doc = iframe.contentDocument;
-    doc.open();
-    doc.write(`<!doctype html>
+    iframe.srcdoc = `<!doctype html>
 <html lang="en" class="${dark ? "dark" : ""}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- Dùng Tailwind CDN trong iframe để đảm bảo breakpoints -->
   <script src="https://cdn.tailwindcss.com"></script>
   ${alpine ? '<script defer src="https://unpkg.com/alpinejs"></script>' : ""}
   <style>
@@ -78,7 +74,6 @@ export function renderInSandbox(
 <body class="min-h-dvh p-4">
 ${html}
 </body>
-</html>`);
-    doc.close();
+</html>`;
   });
 }
