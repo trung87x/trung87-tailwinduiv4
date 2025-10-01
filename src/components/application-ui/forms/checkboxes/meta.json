@@ -1,0 +1,29 @@
+{
+  "title": "Forms – Checkboxes",
+  "slug": "forms/checkboxes",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "list-with-checkbox-on-right",
+      "label": "List With Checkbox On Right",
+      "file": "list_with_checkbox_on_right.html"
+    },
+    {
+      "id": "list-with-description",
+      "label": "List With Description",
+      "file": "list_with_description.html"
+    },
+    {
+      "id": "list-with-inline-description",
+      "label": "List With Inline Description",
+      "file": "list_with_inline_description.html"
+    },
+    {
+      "id": "simple-list-with-heading",
+      "label": "Simple List With Heading",
+      "file": "simple_list_with_heading.html"
+    }
+  ],
+  "props": {}
+}

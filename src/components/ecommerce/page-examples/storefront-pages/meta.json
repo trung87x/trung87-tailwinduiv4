@@ -1,0 +1,29 @@
+{
+  "title": "Page Examples – Storefront Pages",
+  "slug": "page-examples/storefront-pages",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-dark-nav-and-footer",
+      "label": "With Dark Nav And Footer",
+      "file": "with_dark_nav_and_footer.html"
+    },
+    {
+      "id": "with-image-tiles-and-feature-sections",
+      "label": "With Image Tiles And Feature Sections",
+      "file": "with_image_tiles_and_feature_sections.html"
+    },
+    {
+      "id": "with-offers-and-testimonials",
+      "label": "With Offers And Testimonials",
+      "file": "with_offers_and_testimonials.html"
+    },
+    {
+      "id": "with-overlapping-image-tiles-and-perks",
+      "label": "With Overlapping Image Tiles And Perks",
+      "file": "with_overlapping_image_tiles_and_perks.html"
+    }
+  ],
+  "props": {}
+}

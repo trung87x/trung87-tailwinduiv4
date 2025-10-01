@@ -1,0 +1,24 @@
+{
+  "title": "Sections – Bento Grids",
+  "slug": "sections/bento-grids",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "three-column-bento-grid",
+      "label": "Three Column Bento Grid",
+      "file": "three_column_bento_grid.html"
+    },
+    {
+      "id": "two-row-bento-grid-on-dark",
+      "label": "Two Row Bento Grid On Dark",
+      "file": "two_row_bento_grid_on_dark.html"
+    },
+    {
+      "id": "two-row-bento-grid",
+      "label": "Two Row Bento Grid",
+      "file": "two_row_bento_grid.html"
+    }
+  ],
+  "props": {}
+}

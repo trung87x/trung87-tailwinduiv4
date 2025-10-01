@@ -1,0 +1,39 @@
+{
+  "title": "Feedback – Alerts",
+  "slug": "feedback/alerts",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-accent-border",
+      "label": "With Accent Border",
+      "file": "with_accent_border.html"
+    },
+    {
+      "id": "with-actions",
+      "label": "With Actions",
+      "file": "with_actions.html"
+    },
+    {
+      "id": "with-description",
+      "label": "With Description",
+      "file": "with_description.html"
+    },
+    {
+      "id": "with-dismiss-button",
+      "label": "With Dismiss Button",
+      "file": "with_dismiss_button.html"
+    },
+    {
+      "id": "with-link-on-right",
+      "label": "With Link On Right",
+      "file": "with_link_on_right.html"
+    },
+    {
+      "id": "with-list",
+      "label": "With List",
+      "file": "with_list.html"
+    }
+  ],
+  "props": {}
+}

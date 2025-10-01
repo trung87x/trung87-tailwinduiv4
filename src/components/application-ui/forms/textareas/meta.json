@@ -1,0 +1,34 @@
+{
+  "title": "Forms – Textareas",
+  "slug": "forms/textareas",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-avatar-and-actions",
+      "label": "With Avatar And Actions",
+      "file": "with_avatar_and_actions.html"
+    },
+    {
+      "id": "with-preview-button",
+      "label": "With Preview Button",
+      "file": "with_preview_button.html"
+    },
+    {
+      "id": "with-title-and-pill-actions",
+      "label": "With Title And Pill Actions",
+      "file": "with_title_and_pill_actions.html"
+    },
+    {
+      "id": "with-underline-and-actions",
+      "label": "With Underline And Actions",
+      "file": "with_underline_and_actions.html"
+    }
+  ],
+  "props": {}
+}

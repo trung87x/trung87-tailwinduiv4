@@ -1,0 +1,69 @@
+{
+  "title": "Sections – Heroes",
+  "slug": "sections/heroes",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-centered-with-background-image",
+      "label": "Simple Centered With Background Image",
+      "file": "simple_centered_with_background_image.html"
+    },
+    {
+      "id": "simple-centered",
+      "label": "Simple Centered",
+      "file": "simple_centered.html"
+    },
+    {
+      "id": "split-with-code-example",
+      "label": "Split With Code Example",
+      "file": "split_with_code_example.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "split-with-screenshot-on-dark",
+      "label": "Split With Screenshot On Dark",
+      "file": "split_with_screenshot_on_dark.html"
+    },
+    {
+      "id": "split-with-screenshot",
+      "label": "Split With Screenshot",
+      "file": "split_with_screenshot.html"
+    },
+    {
+      "id": "with-angled-image-on-right",
+      "label": "With Angled Image On Right",
+      "file": "with_angled_image_on_right.html"
+    },
+    {
+      "id": "with-app-screenshot-on-dark",
+      "label": "With App Screenshot On Dark",
+      "file": "with_app_screenshot_on_dark.html"
+    },
+    {
+      "id": "with-app-screenshot",
+      "label": "With App Screenshot",
+      "file": "with_app_screenshot.html"
+    },
+    {
+      "id": "with-image-tiles",
+      "label": "With Image Tiles",
+      "file": "with_image_tiles.html"
+    },
+    {
+      "id": "with-offset-image",
+      "label": "With Offset Image",
+      "file": "with_offset_image.html"
+    },
+    {
+      "id": "with-phone-mockup",
+      "label": "With Phone Mockup",
+      "file": "with_phone_mockup.html"
+    }
+  ],
+  "props": {}
+}

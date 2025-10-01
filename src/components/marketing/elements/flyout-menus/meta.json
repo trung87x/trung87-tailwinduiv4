@@ -1,0 +1,44 @@
+{
+  "title": "Elements – Flyout Menus",
+  "slug": "elements/flyout-menus",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "full-width-two-columns",
+      "label": "Full Width Two Columns",
+      "file": "full_width_two_columns.html"
+    },
+    {
+      "id": "full-width",
+      "label": "Full Width",
+      "file": "full_width.html"
+    },
+    {
+      "id": "simple-with-descriptions",
+      "label": "Simple With Descriptions",
+      "file": "simple_with_descriptions.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "stacked-with-footer-actions",
+      "label": "Stacked With Footer Actions",
+      "file": "stacked_with_footer_actions.html"
+    },
+    {
+      "id": "stacked-with-footer-list",
+      "label": "Stacked With Footer List",
+      "file": "stacked_with_footer_list.html"
+    },
+    {
+      "id": "two-column",
+      "label": "Two Column",
+      "file": "two_column.html"
+    }
+  ],
+  "props": {}
+}

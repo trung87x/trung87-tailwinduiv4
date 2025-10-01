@@ -1,0 +1,24 @@
+{
+  "title": "Page Examples – Pricing Pages",
+  "slug": "page-examples/pricing-pages",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-comparison-table",
+      "label": "With Comparison Table",
+      "file": "with_comparison_table.html"
+    },
+    {
+      "id": "with-four-tiers",
+      "label": "With Four Tiers",
+      "file": "with_four_tiers.html"
+    },
+    {
+      "id": "with-three-tiers-and-testimonials",
+      "label": "With Three Tiers And Testimonials",
+      "file": "with_three_tiers_and_testimonials.html"
+    }
+  ],
+  "props": {}
+}

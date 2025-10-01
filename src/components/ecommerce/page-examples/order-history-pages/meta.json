@@ -1,0 +1,34 @@
+{
+  "title": "Page Examples – Order History Pages",
+  "slug": "page-examples/order-history-pages",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-invoice-list-and-quick-actions",
+      "label": "With Invoice List And Quick Actions",
+      "file": "with_invoice_list_and_quick_actions.html"
+    },
+    {
+      "id": "with-invoice-list",
+      "label": "With Invoice List",
+      "file": "with_invoice_list.html"
+    },
+    {
+      "id": "with-invoice-panels",
+      "label": "With Invoice Panels",
+      "file": "with_invoice_panels.html"
+    },
+    {
+      "id": "with-invoice-tables",
+      "label": "With Invoice Tables",
+      "file": "with_invoice_tables.html"
+    }
+  ],
+  "props": {}
+}

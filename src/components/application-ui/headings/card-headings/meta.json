@@ -1,0 +1,39 @@
+{
+  "title": "Headings – Card Headings",
+  "slug": "headings/card-headings",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-action",
+      "label": "With Action",
+      "file": "with_action.html"
+    },
+    {
+      "id": "with-avatar-meta-and-dropdown",
+      "label": "With Avatar Meta And Dropdown",
+      "file": "with_avatar__meta__and_dropdown.html"
+    },
+    {
+      "id": "with-avatar-and-actions",
+      "label": "With Avatar And Actions",
+      "file": "with_avatar_and_actions.html"
+    },
+    {
+      "id": "with-description-and-action",
+      "label": "With Description And Action",
+      "file": "with_description_and_action.html"
+    },
+    {
+      "id": "with-description",
+      "label": "With Description",
+      "file": "with_description.html"
+    }
+  ],
+  "props": {}
+}

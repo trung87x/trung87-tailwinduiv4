@@ -1,0 +1,39 @@
+{
+  "title": "Navigation – Vertical Navigation",
+  "slug": "navigation/vertical-navigation",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "on-gray",
+      "label": "On Gray",
+      "file": "on_gray.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-badges",
+      "label": "With Badges",
+      "file": "with_badges.html"
+    },
+    {
+      "id": "with-icons-and-badges",
+      "label": "With Icons And Badges",
+      "file": "with_icons_and_badges.html"
+    },
+    {
+      "id": "with-icons",
+      "label": "With Icons",
+      "file": "with_icons.html"
+    },
+    {
+      "id": "with-secondary-navigation",
+      "label": "With Secondary Navigation",
+      "file": "with_secondary_navigation.html"
+    }
+  ],
+  "props": {}
+}

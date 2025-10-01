@@ -1,0 +1,59 @@
+{
+  "title": "Elements – Buttons",
+  "slug": "elements/buttons",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "buttons-with-leading-icon",
+      "label": "Buttons With Leading Icon",
+      "file": "buttons_with_leading_icon.html"
+    },
+    {
+      "id": "buttons-with-trailing-icon",
+      "label": "Buttons With Trailing Icon",
+      "file": "buttons_with_trailing_icon.html"
+    },
+    {
+      "id": "circular-buttons",
+      "label": "Circular Buttons",
+      "file": "circular_buttons.html"
+    },
+    {
+      "id": "primary-buttons-on-dark",
+      "label": "Primary Buttons On Dark",
+      "file": "primary_buttons_on_dark.html"
+    },
+    {
+      "id": "primary-buttons",
+      "label": "Primary Buttons",
+      "file": "primary_buttons.html"
+    },
+    {
+      "id": "rounded-primary-buttons",
+      "label": "Rounded Primary Buttons",
+      "file": "rounded_primary_buttons.html"
+    },
+    {
+      "id": "rounded-secondary-buttons",
+      "label": "Rounded Secondary Buttons",
+      "file": "rounded_secondary_buttons.html"
+    },
+    {
+      "id": "secondary-buttons-on-dark",
+      "label": "Secondary Buttons On Dark",
+      "file": "secondary_buttons_on_dark.html"
+    },
+    {
+      "id": "secondary-buttons",
+      "label": "Secondary Buttons",
+      "file": "secondary_buttons.html"
+    },
+    {
+      "id": "soft-buttons",
+      "label": "Soft Buttons",
+      "file": "soft_buttons.html"
+    }
+  ],
+  "props": {}
+}

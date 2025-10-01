@@ -1,0 +1,34 @@
+{
+  "title": "Components – Checkout Forms",
+  "slug": "components/checkout-forms",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "multi-step",
+      "label": "Multi Step",
+      "file": "multi_step.html"
+    },
+    {
+      "id": "single-step-with-order-summary",
+      "label": "Single Step With Order Summary",
+      "file": "single_step_with_order_summary.html"
+    },
+    {
+      "id": "split-with-order-summary",
+      "label": "Split With Order Summary",
+      "file": "split_with_order_summary.html"
+    },
+    {
+      "id": "with-mobile-order-summary-overlay",
+      "label": "With Mobile Order Summary Overlay",
+      "file": "with_mobile_order_summary_overlay.html"
+    },
+    {
+      "id": "with-order-summary-sidebar",
+      "label": "With Order Summary Sidebar",
+      "file": "with_order_summary_sidebar.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Navigation – Tabs",
+  "slug": "navigation/tabs",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "bar-with-underline",
+      "label": "Bar With Underline",
+      "file": "bar_with_underline.html"
+    },
+    {
+      "id": "full-width-tabs-with-underline",
+      "label": "Full Width Tabs With Underline",
+      "file": "full_width_tabs_with_underline.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "tabs-in-pills-on-gray",
+      "label": "Tabs In Pills On Gray",
+      "file": "tabs_in_pills_on_gray.html"
+    },
+    {
+      "id": "tabs-in-pills-with-brand-color",
+      "label": "Tabs In Pills With Brand Color",
+      "file": "tabs_in_pills_with_brand_color.html"
+    },
+    {
+      "id": "tabs-in-pills",
+      "label": "Tabs In Pills",
+      "file": "tabs_in_pills.html"
+    },
+    {
+      "id": "tabs-with-underline-and-badges",
+      "label": "Tabs With Underline And Badges",
+      "file": "tabs_with_underline_and_badges.html"
+    },
+    {
+      "id": "tabs-with-underline-and-icons",
+      "label": "Tabs With Underline And Icons",
+      "file": "tabs_with_underline_and_icons.html"
+    },
+    {
+      "id": "tabs-with-underline",
+      "label": "Tabs With Underline",
+      "file": "tabs_with_underline.html"
+    }
+  ],
+  "props": {}
+}

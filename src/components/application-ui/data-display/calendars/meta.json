@@ -1,0 +1,49 @@
+{
+  "title": "Data Display – Calendars",
+  "slug": "data-display/calendars",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "borderless-side-by-side",
+      "label": "Borderless Side By Side",
+      "file": "borderless_side_by_side.html"
+    },
+    {
+      "id": "borderless-stacked",
+      "label": "Borderless Stacked",
+      "file": "borderless_stacked.html"
+    },
+    {
+      "id": "day-view",
+      "label": "Day View",
+      "file": "day_view.html"
+    },
+    {
+      "id": "double",
+      "label": "Double",
+      "file": "double.html"
+    },
+    {
+      "id": "month-view",
+      "label": "Month View",
+      "file": "month_view.html"
+    },
+    {
+      "id": "small-with-meetings",
+      "label": "Small With Meetings",
+      "file": "small_with_meetings.html"
+    },
+    {
+      "id": "week-view",
+      "label": "Week View",
+      "file": "week_view.html"
+    },
+    {
+      "id": "year-view",
+      "label": "Year View",
+      "file": "year_view.html"
+    }
+  ],
+  "props": {}
+}

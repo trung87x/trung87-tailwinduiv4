@@ -1,0 +1,109 @@
+{
+  "title": "Lists – Tables",
+  "slug": "lists/tables",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "full-width-with-avatars-on-dark",
+      "label": "Full Width With Avatars On Dark",
+      "file": "full_width_with_avatars_on_dark.html"
+    },
+    {
+      "id": "full-width-with-constrained-content",
+      "label": "Full Width With Constrained Content",
+      "file": "full_width_with_constrained_content.html"
+    },
+    {
+      "id": "full-width",
+      "label": "Full Width",
+      "file": "full_width.html"
+    },
+    {
+      "id": "simple-in-card",
+      "label": "Simple In Card",
+      "file": "simple_in_card.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-avatars-and-multi-line-content",
+      "label": "With Avatars And Multi Line Content",
+      "file": "with_avatars_and_multi_line_content.html"
+    },
+    {
+      "id": "with-border",
+      "label": "With Border",
+      "file": "with_border.html"
+    },
+    {
+      "id": "with-checkboxes",
+      "label": "With Checkboxes",
+      "file": "with_checkboxes.html"
+    },
+    {
+      "id": "with-condensed-content",
+      "label": "With Condensed Content",
+      "file": "with_condensed_content.html"
+    },
+    {
+      "id": "with-grouped-rows",
+      "label": "With Grouped Rows",
+      "file": "with_grouped_rows.html"
+    },
+    {
+      "id": "with-hidden-columns-on-mobile",
+      "label": "With Hidden Columns On Mobile",
+      "file": "with_hidden_columns_on_mobile.html"
+    },
+    {
+      "id": "with-hidden-headings",
+      "label": "With Hidden Headings",
+      "file": "with_hidden_headings.html"
+    },
+    {
+      "id": "with-sortable-headings",
+      "label": "With Sortable Headings",
+      "file": "with_sortable_headings.html"
+    },
+    {
+      "id": "with-stacked-columns-on-mobile",
+      "label": "With Stacked Columns On Mobile",
+      "file": "with_stacked_columns_on_mobile.html"
+    },
+    {
+      "id": "with-sticky-header",
+      "label": "With Sticky Header",
+      "file": "with_sticky_header.html"
+    },
+    {
+      "id": "with-striped-rows",
+      "label": "With Striped Rows",
+      "file": "with_striped_rows.html"
+    },
+    {
+      "id": "with-summary-rows",
+      "label": "With Summary Rows",
+      "file": "with_summary_rows.html"
+    },
+    {
+      "id": "with-uppercase-headings",
+      "label": "With Uppercase Headings",
+      "file": "with_uppercase_headings.html"
+    },
+    {
+      "id": "with-vertical-lines",
+      "label": "With Vertical Lines",
+      "file": "with_vertical_lines.html"
+    }
+  ],
+  "props": {}
+}

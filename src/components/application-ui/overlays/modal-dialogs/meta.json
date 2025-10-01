@@ -1,0 +1,39 @@
+{
+  "title": "Overlays – Modal Dialogs",
+  "slug": "overlays/modal-dialogs",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-with-single-action",
+      "label": "Centered With Single Action",
+      "file": "centered_with_single_action.html"
+    },
+    {
+      "id": "centered-with-wide-buttons",
+      "label": "Centered With Wide Buttons",
+      "file": "centered_with_wide_buttons.html"
+    },
+    {
+      "id": "simple-alert-with-left-aligned-buttons",
+      "label": "Simple Alert With Left Aligned Buttons",
+      "file": "simple_alert_with_left_aligned_buttons.html"
+    },
+    {
+      "id": "simple-alert",
+      "label": "Simple Alert",
+      "file": "simple_alert.html"
+    },
+    {
+      "id": "simple-with-dismiss-button",
+      "label": "Simple With Dismiss Button",
+      "file": "simple_with_dismiss_button.html"
+    },
+    {
+      "id": "simple-with-gray-footer",
+      "label": "Simple With Gray Footer",
+      "file": "simple_with_gray_footer.html"
+    }
+  ],
+  "props": {}
+}

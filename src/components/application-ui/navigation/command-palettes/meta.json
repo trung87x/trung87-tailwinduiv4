@@ -1,0 +1,54 @@
+{
+  "title": "Navigation – Command Palettes",
+  "slug": "navigation/command-palettes",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "dark-with-icons",
+      "label": "Dark With Icons",
+      "file": "dark_with_icons.html"
+    },
+    {
+      "id": "semi-transparent-with-icons",
+      "label": "Semi Transparent With Icons",
+      "file": "semi_transparent_with_icons.html"
+    },
+    {
+      "id": "simple-with-padding",
+      "label": "Simple With Padding",
+      "file": "simple_with_padding.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-footer",
+      "label": "With Footer",
+      "file": "with_footer.html"
+    },
+    {
+      "id": "with-groups",
+      "label": "With Groups",
+      "file": "with_groups.html"
+    },
+    {
+      "id": "with-icons",
+      "label": "With Icons",
+      "file": "with_icons.html"
+    },
+    {
+      "id": "with-images-and-descriptions",
+      "label": "With Images And Descriptions",
+      "file": "with_images_and_descriptions.html"
+    },
+    {
+      "id": "with-preview",
+      "label": "With Preview",
+      "file": "with_preview.html"
+    }
+  ],
+  "props": {}
+}

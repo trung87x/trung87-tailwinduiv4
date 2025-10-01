@@ -1,0 +1,79 @@
+{
+  "title": "Sections – Footers",
+  "slug": "sections/footers",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "4-column-simple-on-dark",
+      "label": "4 Column Simple On Dark",
+      "file": "4_column_simple_on_dark.html"
+    },
+    {
+      "id": "4-column-simple",
+      "label": "4 Column Simple",
+      "file": "4_column_simple.html"
+    },
+    {
+      "id": "4-column-with-call-to-action-on-dark",
+      "label": "4 Column With Call To Action On Dark",
+      "file": "4_column_with_call_to_action_on_dark.html"
+    },
+    {
+      "id": "4-column-with-call-to-action",
+      "label": "4 Column With Call To Action",
+      "file": "4_column_with_call_to_action.html"
+    },
+    {
+      "id": "4-column-with-company-mission-on-dark",
+      "label": "4 Column With Company Mission On Dark",
+      "file": "4_column_with_company_mission_on_dark.html"
+    },
+    {
+      "id": "4-column-with-company-mission",
+      "label": "4 Column With Company Mission",
+      "file": "4_column_with_company_mission.html"
+    },
+    {
+      "id": "4-column-with-newsletter-below-on-dark",
+      "label": "4 Column With Newsletter Below On Dark",
+      "file": "4_column_with_newsletter_below_on_dark.html"
+    },
+    {
+      "id": "4-column-with-newsletter-below",
+      "label": "4 Column With Newsletter Below",
+      "file": "4_column_with_newsletter_below.html"
+    },
+    {
+      "id": "4-column-with-newsletter-on-dark",
+      "label": "4 Column With Newsletter On Dark",
+      "file": "4_column_with_newsletter_on_dark.html"
+    },
+    {
+      "id": "4-column-with-newsletter",
+      "label": "4 Column With Newsletter",
+      "file": "4_column_with_newsletter.html"
+    },
+    {
+      "id": "simple-centered-on-dark",
+      "label": "Simple Centered On Dark",
+      "file": "simple_centered_on_dark.html"
+    },
+    {
+      "id": "simple-centered",
+      "label": "Simple Centered",
+      "file": "simple_centered.html"
+    },
+    {
+      "id": "simple-with-social-links-on-dark",
+      "label": "Simple With Social Links On Dark",
+      "file": "simple_with_social_links_on_dark.html"
+    },
+    {
+      "id": "simple-with-social-links",
+      "label": "Simple With Social Links",
+      "file": "simple_with_social_links.html"
+    }
+  ],
+  "props": {}
+}

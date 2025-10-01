@@ -1,0 +1,54 @@
+{
+  "title": "Application Shells – Stacked",
+  "slug": "application-shells/stacked",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "brand-nav-with-overlap",
+      "label": "Brand Nav With Overlap",
+      "file": "brand_nav_with_overlap.html"
+    },
+    {
+      "id": "branded-nav-with-compact-white-page-header",
+      "label": "Branded Nav With Compact White Page Header",
+      "file": "branded_nav_with_compact_white_page_header.html"
+    },
+    {
+      "id": "branded-nav-with-white-page-header",
+      "label": "Branded Nav With White Page Header",
+      "file": "branded_nav_with_white_page_header.html"
+    },
+    {
+      "id": "dark-nav-with-compact-white-page-header",
+      "label": "Dark Nav With Compact White Page Header",
+      "file": "dark_nav_with_compact_white_page_header.html"
+    },
+    {
+      "id": "dark-nav-with-overlap",
+      "label": "Dark Nav With Overlap",
+      "file": "dark_nav_with_overlap.html"
+    },
+    {
+      "id": "dark-nav-with-white-page-header",
+      "label": "Dark Nav With White Page Header",
+      "file": "dark_nav_with_white_page_header.html"
+    },
+    {
+      "id": "light-nav-on-gray-background",
+      "label": "Light Nav On Gray Background",
+      "file": "light_nav_on_gray_background.html"
+    },
+    {
+      "id": "light-nav-with-bottom-border",
+      "label": "Light Nav With Bottom Border",
+      "file": "light_nav_with_bottom_border.html"
+    },
+    {
+      "id": "two-row-navigation-with-overlap",
+      "label": "Two Row Navigation With Overlap",
+      "file": "two_row_navigation_with_overlap.html"
+    }
+  ],
+  "props": {}
+}

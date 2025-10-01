@@ -1,0 +1,54 @@
+{
+  "title": "Sections – Testimonials",
+  "slug": "sections/testimonials",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "grid",
+      "label": "Grid",
+      "file": "grid.html"
+    },
+    {
+      "id": "off-white-grid",
+      "label": "Off White Grid",
+      "file": "off_white_grid.html"
+    },
+    {
+      "id": "side-by-side-on-dark",
+      "label": "Side By Side On Dark",
+      "file": "side_by_side_on_dark.html"
+    },
+    {
+      "id": "side-by-side",
+      "label": "Side By Side",
+      "file": "side_by_side.html"
+    },
+    {
+      "id": "simple-centered",
+      "label": "Simple Centered",
+      "file": "simple_centered.html"
+    },
+    {
+      "id": "with-background-image",
+      "label": "With Background Image",
+      "file": "with_background_image.html"
+    },
+    {
+      "id": "with-large-avatar",
+      "label": "With Large Avatar",
+      "file": "with_large_avatar.html"
+    },
+    {
+      "id": "with-overlapping-image",
+      "label": "With Overlapping Image",
+      "file": "with_overlapping_image.html"
+    },
+    {
+      "id": "with-star-rating",
+      "label": "With Star Rating",
+      "file": "with_star_rating.html"
+    }
+  ],
+  "props": {}
+}

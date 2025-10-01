@@ -1,0 +1,54 @@
+{
+  "title": "Components – Product Features",
+  "slug": "components/product-features",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-alternating-sections",
+      "label": "With Alternating Sections",
+      "file": "with_alternating_sections.html"
+    },
+    {
+      "id": "with-fading-image",
+      "label": "With Fading Image",
+      "file": "with_fading_image.html"
+    },
+    {
+      "id": "with-header-images-and-descriptions",
+      "label": "With Header Images And Descriptions",
+      "file": "with_header__images__and_descriptions.html"
+    },
+    {
+      "id": "with-image-grid",
+      "label": "With Image Grid",
+      "file": "with_image_grid.html"
+    },
+    {
+      "id": "with-split-image",
+      "label": "With Split Image",
+      "file": "with_split_image.html"
+    },
+    {
+      "id": "with-square-images",
+      "label": "With Square Images",
+      "file": "with_square_images.html"
+    },
+    {
+      "id": "with-tabs",
+      "label": "With Tabs",
+      "file": "with_tabs.html"
+    },
+    {
+      "id": "with-tiered-images",
+      "label": "With Tiered Images",
+      "file": "with_tiered_images.html"
+    },
+    {
+      "id": "with-wide-images",
+      "label": "With Wide Images",
+      "file": "with_wide_images.html"
+    }
+  ],
+  "props": {}
+}

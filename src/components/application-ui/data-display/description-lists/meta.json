@@ -1,0 +1,44 @@
+{
+  "title": "Data Display – Description Lists",
+  "slug": "data-display/description-lists",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "left-aligned-in-card",
+      "label": "Left Aligned In Card",
+      "file": "left_aligned_in_card.html"
+    },
+    {
+      "id": "left-aligned-on-dark",
+      "label": "Left Aligned On Dark",
+      "file": "left_aligned_on_dark.html"
+    },
+    {
+      "id": "left-aligned-striped",
+      "label": "Left Aligned Striped",
+      "file": "left_aligned_striped.html"
+    },
+    {
+      "id": "left-aligned-with-inline-actions",
+      "label": "Left Aligned With Inline Actions",
+      "file": "left_aligned_with_inline_actions.html"
+    },
+    {
+      "id": "left-aligned",
+      "label": "Left Aligned",
+      "file": "left_aligned.html"
+    },
+    {
+      "id": "narrow-with-hidden-labels",
+      "label": "Narrow With Hidden Labels",
+      "file": "narrow_with_hidden_labels.html"
+    },
+    {
+      "id": "two-column",
+      "label": "Two Column",
+      "file": "two_column.html"
+    }
+  ],
+  "props": {}
+}

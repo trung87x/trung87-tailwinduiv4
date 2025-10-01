@@ -1,0 +1,49 @@
+{
+  "title": "Forms – Action Panels",
+  "slug": "forms/action-panels",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-well",
+      "label": "Simple Well",
+      "file": "simple_well.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-button-at-top-right",
+      "label": "With Button At Top Right",
+      "file": "with_button_at_top_right.html"
+    },
+    {
+      "id": "with-button-on-right",
+      "label": "With Button On Right",
+      "file": "with_button_on_right.html"
+    },
+    {
+      "id": "with-input",
+      "label": "With Input",
+      "file": "with_input.html"
+    },
+    {
+      "id": "with-link",
+      "label": "With Link",
+      "file": "with_link.html"
+    },
+    {
+      "id": "with-toggle",
+      "label": "With Toggle",
+      "file": "with_toggle.html"
+    },
+    {
+      "id": "with-well",
+      "label": "With Well",
+      "file": "with_well.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Page Examples – Landing Pages",
+  "slug": "page-examples/landing-pages",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-background-image-hero-and-pricing-section",
+      "label": "With Background Image Hero And Pricing Section",
+      "file": "with_background_image_hero_and_pricing_section.html"
+    },
+    {
+      "id": "with-large-screenshot-and-testimonial",
+      "label": "With Large Screenshot And Testimonial",
+      "file": "with_large_screenshot_and_testimonial.html"
+    },
+    {
+      "id": "with-mobile-screenshot-and-testimonials-grid",
+      "label": "With Mobile Screenshot And Testimonials Grid",
+      "file": "with_mobile_screenshot_and_testimonials_grid.html"
+    },
+    {
+      "id": "with-screenshots-and-stats",
+      "label": "With Screenshots And Stats",
+      "file": "with_screenshots_and_stats.html"
+    }
+  ],
+  "props": {}
+}
