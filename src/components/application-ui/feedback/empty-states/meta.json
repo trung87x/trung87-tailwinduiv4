@@ -1,0 +1,39 @@
+{
+  "title": "Feedback – Empty States",
+  "slug": "feedback/empty-states",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-dashed-border",
+      "label": "With Dashed Border",
+      "file": "with_dashed_border.html"
+    },
+    {
+      "id": "with-recommendations-grid",
+      "label": "With Recommendations Grid",
+      "file": "with_recommendations_grid.html"
+    },
+    {
+      "id": "with-recommendations",
+      "label": "With Recommendations",
+      "file": "with_recommendations.html"
+    },
+    {
+      "id": "with-starting-points",
+      "label": "With Starting Points",
+      "file": "with_starting_points.html"
+    },
+    {
+      "id": "with-templates",
+      "label": "With Templates",
+      "file": "with_templates.html"
+    }
+  ],
+  "props": {}
+}

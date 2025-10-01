@@ -1,0 +1,34 @@
+{
+  "title": "Elements – Dropdowns",
+  "slug": "elements/dropdowns",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-dividers",
+      "label": "With Dividers",
+      "file": "with_dividers.html"
+    },
+    {
+      "id": "with-icons",
+      "label": "With Icons",
+      "file": "with_icons.html"
+    },
+    {
+      "id": "with-minimal-menu-icon",
+      "label": "With Minimal Menu Icon",
+      "file": "with_minimal_menu_icon.html"
+    },
+    {
+      "id": "with-simple-header",
+      "label": "With Simple Header",
+      "file": "with_simple_header.html"
+    }
+  ],
+  "props": {}
+}

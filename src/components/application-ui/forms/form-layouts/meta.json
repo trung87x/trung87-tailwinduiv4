@@ -1,0 +1,34 @@
+{
+  "title": "Forms – Form Layouts",
+  "slug": "forms/form-layouts",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "labels-on-left",
+      "label": "Labels On Left",
+      "file": "labels_on_left.html"
+    },
+    {
+      "id": "stacked-on-dark",
+      "label": "Stacked On Dark",
+      "file": "stacked_on_dark.html"
+    },
+    {
+      "id": "stacked",
+      "label": "Stacked",
+      "file": "stacked.html"
+    },
+    {
+      "id": "two-column-with-cards",
+      "label": "Two Column With Cards",
+      "file": "two_column_with_cards.html"
+    },
+    {
+      "id": "two-column",
+      "label": "Two Column",
+      "file": "two_column.html"
+    }
+  ],
+  "props": {}
+}

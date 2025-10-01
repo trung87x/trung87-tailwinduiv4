@@ -1,0 +1,24 @@
+{
+  "title": "Lists – Feeds",
+  "slug": "lists/feeds",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-with-icons",
+      "label": "Simple With Icons",
+      "file": "simple_with_icons.html"
+    },
+    {
+      "id": "with-comments",
+      "label": "With Comments",
+      "file": "with_comments.html"
+    },
+    {
+      "id": "with-multiple-item-types",
+      "label": "With Multiple Item Types",
+      "file": "with_multiple_item_types.html"
+    }
+  ],
+  "props": {}
+}

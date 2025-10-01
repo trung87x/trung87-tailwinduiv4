@@ -1,0 +1,49 @@
+{
+  "title": "Application Shells – Sidebar",
+  "slug": "application-shells/sidebar",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "brand-sidebar-with-header",
+      "label": "Brand Sidebar With Header",
+      "file": "brand_sidebar_with_header.html"
+    },
+    {
+      "id": "brand-sidebar",
+      "label": "Brand Sidebar",
+      "file": "brand_sidebar.html"
+    },
+    {
+      "id": "dark-sidebar-with-header",
+      "label": "Dark Sidebar With Header",
+      "file": "dark_sidebar_with_header.html"
+    },
+    {
+      "id": "dark-sidebar",
+      "label": "Dark Sidebar",
+      "file": "dark_sidebar.html"
+    },
+    {
+      "id": "light-sidebar-with-constrained-content-area",
+      "label": "Light Sidebar With Constrained Content Area",
+      "file": "light_sidebar_with_constrained_content_area.html"
+    },
+    {
+      "id": "light-sidebar-with-header",
+      "label": "Light Sidebar With Header",
+      "file": "light_sidebar_with_header.html"
+    },
+    {
+      "id": "light-sidebar-with-off-white-background",
+      "label": "Light Sidebar With Off White Background",
+      "file": "light_sidebar_with_off_white_background.html"
+    },
+    {
+      "id": "light-sidebar",
+      "label": "Light Sidebar",
+      "file": "light_sidebar.html"
+    }
+  ],
+  "props": {}
+}

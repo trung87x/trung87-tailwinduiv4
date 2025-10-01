@@ -1,0 +1,44 @@
+{
+  "title": "Sections – Newsletter Sections",
+  "slug": "sections/newsletter-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-card",
+      "label": "Centered Card",
+      "file": "centered_card.html"
+    },
+    {
+      "id": "side-by-side-on-card",
+      "label": "Side By Side On Card",
+      "file": "side_by_side_on_card.html"
+    },
+    {
+      "id": "side-by-side-with-details",
+      "label": "Side By Side With Details",
+      "file": "side_by_side_with_details.html"
+    },
+    {
+      "id": "simple-side-by-side-on-brand",
+      "label": "Simple Side By Side On Brand",
+      "file": "simple_side_by_side_on_brand.html"
+    },
+    {
+      "id": "simple-side-by-side-on-dark",
+      "label": "Simple Side By Side On Dark",
+      "file": "simple_side_by_side_on_dark.html"
+    },
+    {
+      "id": "simple-side-by-side",
+      "label": "Simple Side By Side",
+      "file": "simple_side_by_side.html"
+    },
+    {
+      "id": "simple-stacked",
+      "label": "Simple Stacked",
+      "file": "simple_stacked.html"
+    }
+  ],
+  "props": {}
+}

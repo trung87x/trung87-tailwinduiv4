@@ -1,0 +1,49 @@
+{
+  "title": "Sections – Contact Sections",
+  "slug": "sections/contact-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered",
+      "label": "Centered",
+      "file": "centered.html"
+    },
+    {
+      "id": "side-by-side-grid",
+      "label": "Side By Side Grid",
+      "file": "side_by_side_grid.html"
+    },
+    {
+      "id": "simple-centered",
+      "label": "Simple Centered",
+      "file": "simple_centered.html"
+    },
+    {
+      "id": "simple-four-column",
+      "label": "Simple Four Column",
+      "file": "simple_four_column.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "split-with-pattern-on-dark",
+      "label": "Split With Pattern On Dark",
+      "file": "split_with_pattern_on_dark.html"
+    },
+    {
+      "id": "split-with-pattern",
+      "label": "Split With Pattern",
+      "file": "split_with_pattern.html"
+    },
+    {
+      "id": "with-testimonial",
+      "label": "With Testimonial",
+      "file": "with_testimonial.html"
+    }
+  ],
+  "props": {}
+}

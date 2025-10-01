@@ -1,0 +1,24 @@
+{
+  "title": "Page Examples – About Pages",
+  "slug": "page-examples/about-pages",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "dark",
+      "label": "Dark",
+      "file": "dark.html"
+    },
+    {
+      "id": "with-image-tiles",
+      "label": "With Image Tiles",
+      "file": "with_image_tiles.html"
+    },
+    {
+      "id": "with-timeline-and-stats",
+      "label": "With Timeline And Stats",
+      "file": "with_timeline_and_stats.html"
+    }
+  ],
+  "props": {}
+}

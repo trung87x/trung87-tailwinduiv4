@@ -1,0 +1,59 @@
+{
+  "title": "Sections – Header",
+  "slug": "sections/header",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-on-dark",
+      "label": "Centered On Dark",
+      "file": "centered_on_dark.html"
+    },
+    {
+      "id": "centered-with-background-image",
+      "label": "Centered With Background Image",
+      "file": "centered_with_background_image.html"
+    },
+    {
+      "id": "centered-with-eyebrow",
+      "label": "Centered With Eyebrow",
+      "file": "centered_with_eyebrow.html"
+    },
+    {
+      "id": "centered",
+      "label": "Centered",
+      "file": "centered.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple-with-background-image",
+      "label": "Simple With Background Image",
+      "file": "simple_with_background_image.html"
+    },
+    {
+      "id": "simple-with-eyebrow",
+      "label": "Simple With Eyebrow",
+      "file": "simple_with_eyebrow.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-cards",
+      "label": "With Cards",
+      "file": "with_cards.html"
+    },
+    {
+      "id": "with-stats",
+      "label": "With Stats",
+      "file": "with_stats.html"
+    }
+  ],
+  "props": {}
+}

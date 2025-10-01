@@ -1,0 +1,49 @@
+{
+  "title": "Layout – Dividers",
+  "slug": "layout/dividers",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-button",
+      "label": "With Button",
+      "file": "with_button.html"
+    },
+    {
+      "id": "with-icon",
+      "label": "With Icon",
+      "file": "with_icon.html"
+    },
+    {
+      "id": "with-label-on-left",
+      "label": "With Label On Left",
+      "file": "with_label_on_left.html"
+    },
+    {
+      "id": "with-label",
+      "label": "With Label",
+      "file": "with_label.html"
+    },
+    {
+      "id": "with-title-and-button",
+      "label": "With Title And Button",
+      "file": "with_title_and_button.html"
+    },
+    {
+      "id": "with-title-on-left",
+      "label": "With Title On Left",
+      "file": "with_title_on_left.html"
+    },
+    {
+      "id": "with-title",
+      "label": "With Title",
+      "file": "with_title.html"
+    },
+    {
+      "id": "with-toolbar",
+      "label": "With Toolbar",
+      "file": "with_toolbar.html"
+    }
+  ],
+  "props": {}
+}

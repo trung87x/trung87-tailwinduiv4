@@ -1,0 +1,34 @@
+{
+  "title": "Page Examples – Category Pages",
+  "slug": "page-examples/category-pages",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "with-image-header-and-detail-product-grid",
+      "label": "With Image Header And Detail Product Grid",
+      "file": "with_image_header_and_detail_product_grid.html"
+    },
+    {
+      "id": "with-large-images-and-filters-sidebar",
+      "label": "With Large Images And Filters Sidebar",
+      "file": "with_large_images_and_filters_sidebar.html"
+    },
+    {
+      "id": "with-product-grid-and-pagination",
+      "label": "With Product Grid And Pagination",
+      "file": "with_product_grid_and_pagination.html"
+    },
+    {
+      "id": "with-text-header-and-image-product-grid",
+      "label": "With Text Header And Image Product Grid",
+      "file": "with_text_header_and_image_product_grid.html"
+    },
+    {
+      "id": "with-text-header-and-simple-product-grid",
+      "label": "With Text Header And Simple Product Grid",
+      "file": "with_text_header_and_simple_product_grid.html"
+    }
+  ],
+  "props": {}
+}

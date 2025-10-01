@@ -1,0 +1,29 @@
+{
+  "title": "Components – Order Summaries",
+  "slug": "components/order-summaries",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-with-full-order-details",
+      "label": "Simple With Full Order Details",
+      "file": "simple_with_full_order_details.html"
+    },
+    {
+      "id": "with-large-images-and-progress-bars",
+      "label": "With Large Images And Progress Bars",
+      "file": "with_large_images_and_progress_bars.html"
+    },
+    {
+      "id": "with-progress-bars",
+      "label": "With Progress Bars",
+      "file": "with_progress_bars.html"
+    },
+    {
+      "id": "with-split-image",
+      "label": "With Split Image",
+      "file": "with_split_image.html"
+    }
+  ],
+  "props": {}
+}

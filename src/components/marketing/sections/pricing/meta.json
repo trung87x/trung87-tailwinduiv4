@@ -1,0 +1,79 @@
+{
+  "title": "Sections – Pricing",
+  "slug": "sections/pricing",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "four-tiers-with-toggle",
+      "label": "Four Tiers With Toggle",
+      "file": "four_tiers_with_toggle.html"
+    },
+    {
+      "id": "single-price-with-details",
+      "label": "Single Price With Details",
+      "file": "single_price_with_details.html"
+    },
+    {
+      "id": "three-tiers-with-dividers",
+      "label": "Three Tiers With Dividers",
+      "file": "three_tiers_with_dividers.html"
+    },
+    {
+      "id": "three-tiers-with-emphasized-tier",
+      "label": "Three Tiers With Emphasized Tier",
+      "file": "three_tiers_with_emphasized_tier.html"
+    },
+    {
+      "id": "three-tiers-with-feature-comparison",
+      "label": "Three Tiers With Feature Comparison",
+      "file": "three_tiers_with_feature_comparison.html"
+    },
+    {
+      "id": "three-tiers-with-logos-and-feature-comparison",
+      "label": "Three Tiers With Logos And Feature Comparison",
+      "file": "three_tiers_with_logos_and_feature_comparison.html"
+    },
+    {
+      "id": "three-tiers-with-toggle-on-dark",
+      "label": "Three Tiers With Toggle On Dark",
+      "file": "three_tiers_with_toggle_on_dark.html"
+    },
+    {
+      "id": "three-tiers-with-toggle",
+      "label": "Three Tiers With Toggle",
+      "file": "three_tiers_with_toggle.html"
+    },
+    {
+      "id": "three-tiers",
+      "label": "Three Tiers",
+      "file": "three_tiers.html"
+    },
+    {
+      "id": "two-tiers-with-emphasized-tier",
+      "label": "Two Tiers With Emphasized Tier",
+      "file": "two_tiers_with_emphasized_tier.html"
+    },
+    {
+      "id": "two-tiers-with-extra-tier",
+      "label": "Two Tiers With Extra Tier",
+      "file": "two_tiers_with_extra_tier.html"
+    },
+    {
+      "id": "two-tiers",
+      "label": "Two Tiers",
+      "file": "two_tiers.html"
+    },
+    {
+      "id": "with-comparison-table-on-dark",
+      "label": "With Comparison Table On Dark",
+      "file": "with_comparison_table_on_dark.html"
+    },
+    {
+      "id": "with-comparison-table",
+      "label": "With Comparison Table",
+      "file": "with_comparison_table.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Navigation – Pagination",
+  "slug": "navigation/pagination",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "card-footer-with-page-buttons",
+      "label": "Card Footer With Page Buttons",
+      "file": "card_footer_with_page_buttons.html"
+    },
+    {
+      "id": "centered-page-numbers",
+      "label": "Centered Page Numbers",
+      "file": "centered_page_numbers.html"
+    },
+    {
+      "id": "simple-card-footer",
+      "label": "Simple Card Footer",
+      "file": "simple_card_footer.html"
+    }
+  ],
+  "props": {}
+}

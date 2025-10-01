@@ -1,0 +1,109 @@
+{
+  "title": "Sections – Feature Sections",
+  "slug": "sections/feature-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-2x2-grid",
+      "label": "Centered 2x2 Grid",
+      "file": "centered_2x2_grid.html"
+    },
+    {
+      "id": "contained-in-panel",
+      "label": "Contained In Panel",
+      "file": "contained_in_panel.html"
+    },
+    {
+      "id": "offset-2x2-grid",
+      "label": "Offset 2x2 Grid",
+      "file": "offset_2x2_grid.html"
+    },
+    {
+      "id": "offset-with-feature-list",
+      "label": "Offset With Feature List",
+      "file": "offset_with_feature_list.html"
+    },
+    {
+      "id": "simple-3x2-on-dark",
+      "label": "Simple 3x2 On Dark",
+      "file": "simple_3x2_on_dark.html"
+    },
+    {
+      "id": "simple-three-column-with-large-icons-on-dark",
+      "label": "Simple Three Column With Large Icons On Dark",
+      "file": "simple_three_column_with_large_icons_on_dark.html"
+    },
+    {
+      "id": "simple-three-column-with-large-icons",
+      "label": "Simple Three Column With Large Icons",
+      "file": "simple_three_column_with_large_icons.html"
+    },
+    {
+      "id": "simple-three-column-with-small-icons-on-dark",
+      "label": "Simple Three Column With Small Icons On Dark",
+      "file": "simple_three_column_with_small_icons_on_dark.html"
+    },
+    {
+      "id": "simple-three-column-with-small-icons",
+      "label": "Simple Three Column With Small Icons",
+      "file": "simple_three_column_with_small_icons.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-code-example-panel",
+      "label": "With Code Example Panel",
+      "file": "with_code_example_panel.html"
+    },
+    {
+      "id": "with-large-bordered-screenshot-on-dark",
+      "label": "With Large Bordered Screenshot On Dark",
+      "file": "with_large_bordered_screenshot_on_dark.html"
+    },
+    {
+      "id": "with-large-bordered-screenshot",
+      "label": "With Large Bordered Screenshot",
+      "file": "with_large_bordered_screenshot.html"
+    },
+    {
+      "id": "with-large-screenshot-on-dark",
+      "label": "With Large Screenshot On Dark",
+      "file": "with_large_screenshot_on_dark.html"
+    },
+    {
+      "id": "with-large-screenshot",
+      "label": "With Large Screenshot",
+      "file": "with_large_screenshot.html"
+    },
+    {
+      "id": "with-product-screenshot-on-dark",
+      "label": "With Product Screenshot On Dark",
+      "file": "with_product_screenshot_on_dark.html"
+    },
+    {
+      "id": "with-product-screenshot-on-left",
+      "label": "With Product Screenshot On Left",
+      "file": "with_product_screenshot_on_left.html"
+    },
+    {
+      "id": "with-product-screenshot-panel",
+      "label": "With Product Screenshot Panel",
+      "file": "with_product_screenshot_panel.html"
+    },
+    {
+      "id": "with-product-screenshot",
+      "label": "With Product Screenshot",
+      "file": "with_product_screenshot.html"
+    },
+    {
+      "id": "with-testimonial",
+      "label": "With Testimonial",
+      "file": "with_testimonial.html"
+    }
+  ],
+  "props": {}
+}

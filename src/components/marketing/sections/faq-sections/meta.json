@@ -1,0 +1,59 @@
+{
+  "title": "Sections – FAQ Sections",
+  "slug": "sections/faq-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-accordion-on-dark",
+      "label": "Centered Accordion On Dark",
+      "file": "centered_accordion_on_dark.html"
+    },
+    {
+      "id": "centered-accordion",
+      "label": "Centered Accordion",
+      "file": "centered_accordion.html"
+    },
+    {
+      "id": "offset-with-supporting-text",
+      "label": "Offset With Supporting Text",
+      "file": "offset_with_supporting_text.html"
+    },
+    {
+      "id": "side-by-side",
+      "label": "Side By Side",
+      "file": "side_by_side.html"
+    },
+    {
+      "id": "three-columns-on-dark",
+      "label": "Three Columns On Dark",
+      "file": "three_columns_on_dark.html"
+    },
+    {
+      "id": "three-columns-with-centered-introduction",
+      "label": "Three Columns With Centered Introduction",
+      "file": "three_columns_with_centered_introduction.html"
+    },
+    {
+      "id": "three-columns",
+      "label": "Three Columns",
+      "file": "three_columns.html"
+    },
+    {
+      "id": "two-columns-on-dark",
+      "label": "Two Columns On Dark",
+      "file": "two_columns_on_dark.html"
+    },
+    {
+      "id": "two-columns-with-centered-introduction",
+      "label": "Two Columns With Centered Introduction",
+      "file": "two_columns_with_centered_introduction.html"
+    },
+    {
+      "id": "two-columns",
+      "label": "Two Columns",
+      "file": "two_columns.html"
+    }
+  ],
+  "props": {}
+}

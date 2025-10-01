@@ -1,0 +1,49 @@
+{
+  "title": "Layout – Media Objects",
+  "slug": "layout/media-objects",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "aligned-to-bottom",
+      "label": "Aligned To Bottom",
+      "file": "aligned_to_bottom.html"
+    },
+    {
+      "id": "aligned-to-center",
+      "label": "Aligned To Center",
+      "file": "aligned_to_center.html"
+    },
+    {
+      "id": "basic-responsive",
+      "label": "Basic Responsive",
+      "file": "basic_responsive.html"
+    },
+    {
+      "id": "basic",
+      "label": "Basic",
+      "file": "basic.html"
+    },
+    {
+      "id": "media-on-right",
+      "label": "Media On Right",
+      "file": "media_on_right.html"
+    },
+    {
+      "id": "nested",
+      "label": "Nested",
+      "file": "nested.html"
+    },
+    {
+      "id": "stretched-to-fit",
+      "label": "Stretched To Fit",
+      "file": "stretched_to_fit.html"
+    },
+    {
+      "id": "wide-responsive",
+      "label": "Wide Responsive",
+      "file": "wide_responsive.html"
+    }
+  ],
+  "props": {}
+}

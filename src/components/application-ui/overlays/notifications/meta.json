@@ -1,0 +1,39 @@
+{
+  "title": "Overlays – Notifications",
+  "slug": "overlays/notifications",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "condensed",
+      "label": "Condensed",
+      "file": "condensed.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-actions-below",
+      "label": "With Actions Below",
+      "file": "with_actions_below.html"
+    },
+    {
+      "id": "with-avatar",
+      "label": "With Avatar",
+      "file": "with_avatar.html"
+    },
+    {
+      "id": "with-buttons-below",
+      "label": "With Buttons Below",
+      "file": "with_buttons_below.html"
+    },
+    {
+      "id": "with-split-buttons",
+      "label": "With Split Buttons",
+      "file": "with_split_buttons.html"
+    }
+  ],
+  "props": {}
+}

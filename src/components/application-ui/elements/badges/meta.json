@@ -1,0 +1,99 @@
+{
+  "title": "Elements – Badges",
+  "slug": "elements/badges",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "flat-pill-with-dot",
+      "label": "Flat Pill With Dot",
+      "file": "flat_pill_with_dot.html"
+    },
+    {
+      "id": "flat-pill",
+      "label": "Flat Pill",
+      "file": "flat_pill.html"
+    },
+    {
+      "id": "flat-with-dot",
+      "label": "Flat With Dot",
+      "file": "flat_with_dot.html"
+    },
+    {
+      "id": "flat-with-remove-button",
+      "label": "Flat With Remove Button",
+      "file": "flat_with_remove_button.html"
+    },
+    {
+      "id": "flat",
+      "label": "Flat",
+      "file": "flat.html"
+    },
+    {
+      "id": "pill-with-border-and-dot",
+      "label": "Pill With Border And Dot",
+      "file": "pill_with_border_and_dot.html"
+    },
+    {
+      "id": "pill-with-border",
+      "label": "Pill With Border",
+      "file": "pill_with_border.html"
+    },
+    {
+      "id": "small-flat-pill-with-dot",
+      "label": "Small Flat Pill With Dot",
+      "file": "small_flat_pill_with_dot.html"
+    },
+    {
+      "id": "small-flat-pill",
+      "label": "Small Flat Pill",
+      "file": "small_flat_pill.html"
+    },
+    {
+      "id": "small-flat-with-dot",
+      "label": "Small Flat With Dot",
+      "file": "small_flat_with_dot.html"
+    },
+    {
+      "id": "small-flat",
+      "label": "Small Flat",
+      "file": "small_flat.html"
+    },
+    {
+      "id": "small-pill-with-border",
+      "label": "Small Pill With Border",
+      "file": "small_pill_with_border.html"
+    },
+    {
+      "id": "small-with-border",
+      "label": "Small With Border",
+      "file": "small_with_border.html"
+    },
+    {
+      "id": "with-border-and-dot-on-dark",
+      "label": "With Border And Dot On Dark",
+      "file": "with_border_and_dot_on_dark.html"
+    },
+    {
+      "id": "with-border-and-dot",
+      "label": "With Border And Dot",
+      "file": "with_border_and_dot.html"
+    },
+    {
+      "id": "with-border-and-remove-button",
+      "label": "With Border And Remove Button",
+      "file": "with_border_and_remove_button.html"
+    },
+    {
+      "id": "with-border-on-dark",
+      "label": "With Border On Dark",
+      "file": "with_border_on_dark.html"
+    },
+    {
+      "id": "with-border",
+      "label": "With Border",
+      "file": "with_border.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Forms – Radio Groups",
+  "slug": "forms/radio-groups",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "cards",
+      "label": "Cards",
+      "file": "cards.html"
+    },
+    {
+      "id": "color-picker",
+      "label": "Color Picker",
+      "file": "color_picker.html"
+    },
+    {
+      "id": "list-with-description",
+      "label": "List With Description",
+      "file": "list_with_description.html"
+    },
+    {
+      "id": "list-with-descriptions-in-panel",
+      "label": "List With Descriptions In Panel",
+      "file": "list_with_descriptions_in_panel.html"
+    },
+    {
+      "id": "list-with-inline-description",
+      "label": "List With Inline Description",
+      "file": "list_with_inline_description.html"
+    },
+    {
+      "id": "list-with-radio-on-right",
+      "label": "List With Radio On Right",
+      "file": "list_with_radio_on_right.html"
+    },
+    {
+      "id": "simple-inline-list",
+      "label": "Simple Inline List",
+      "file": "simple_inline_list.html"
+    },
+    {
+      "id": "simple-list-with-radio-on-right",
+      "label": "Simple List With Radio On Right",
+      "file": "simple_list_with_radio_on_right.html"
+    },
+    {
+      "id": "simple-list",
+      "label": "Simple List",
+      "file": "simple_list.html"
+    },
+    {
+      "id": "simple-table",
+      "label": "Simple Table",
+      "file": "simple_table.html"
+    },
+    {
+      "id": "small-cards",
+      "label": "Small Cards",
+      "file": "small_cards.html"
+    },
+    {
+      "id": "stacked-cards",
+      "label": "Stacked Cards",
+      "file": "stacked_cards.html"
+    }
+  ],
+  "props": {}
+}

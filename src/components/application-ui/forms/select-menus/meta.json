@@ -1,0 +1,44 @@
+{
+  "title": "Forms – Select Menus",
+  "slug": "forms/select-menus",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "branded-with-supported-text",
+      "label": "Branded With Supported Text",
+      "file": "branded_with_supported_text.html"
+    },
+    {
+      "id": "custom-with-avatar",
+      "label": "Custom With Avatar",
+      "file": "custom_with_avatar.html"
+    },
+    {
+      "id": "custom-with-check-on-left",
+      "label": "Custom With Check On Left",
+      "file": "custom_with_check_on_left.html"
+    },
+    {
+      "id": "custom-with-status-indicator",
+      "label": "Custom With Status Indicator",
+      "file": "custom_with_status_indicator.html"
+    },
+    {
+      "id": "simple-custom",
+      "label": "Simple Custom",
+      "file": "simple_custom.html"
+    },
+    {
+      "id": "simple-native",
+      "label": "Simple Native",
+      "file": "simple_native.html"
+    },
+    {
+      "id": "with-secondary-text",
+      "label": "With Secondary Text",
+      "file": "with_secondary_text.html"
+    }
+  ],
+  "props": {}
+}

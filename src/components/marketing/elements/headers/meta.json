@@ -1,0 +1,69 @@
+{
+  "title": "Elements – Headers",
+  "slug": "elements/headers",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "constrained",
+      "label": "Constrained",
+      "file": "constrained.html"
+    },
+    {
+      "id": "full-width",
+      "label": "Full Width",
+      "file": "full_width.html"
+    },
+    {
+      "id": "on-brand-background",
+      "label": "On Brand Background",
+      "file": "on_brand_background.html"
+    },
+    {
+      "id": "on-dark-background",
+      "label": "On Dark Background",
+      "file": "on_dark_background.html"
+    },
+    {
+      "id": "with-call-to-action",
+      "label": "With Call To Action",
+      "file": "with_call_to_action.html"
+    },
+    {
+      "id": "with-centered-logo",
+      "label": "With Centered Logo",
+      "file": "with_centered_logo.html"
+    },
+    {
+      "id": "with-full-width-flyout-menu",
+      "label": "With Full Width Flyout Menu",
+      "file": "with_full_width_flyout_menu.html"
+    },
+    {
+      "id": "with-icons-in-mobile-menu",
+      "label": "With Icons In Mobile Menu",
+      "file": "with_icons_in_mobile_menu.html"
+    },
+    {
+      "id": "with-left-aligned-nav",
+      "label": "With Left Aligned Nav",
+      "file": "with_left_aligned_nav.html"
+    },
+    {
+      "id": "with-multiple-flyout-menus",
+      "label": "With Multiple Flyout Menus",
+      "file": "with_multiple_flyout_menus.html"
+    },
+    {
+      "id": "with-right-aligned-nav",
+      "label": "With Right Aligned Nav",
+      "file": "with_right_aligned_nav.html"
+    },
+    {
+      "id": "with-stacked-flyout-menu",
+      "label": "With Stacked Flyout Menu",
+      "file": "with_stacked_flyout_menu.html"
+    }
+  ],
+  "props": {}
+}

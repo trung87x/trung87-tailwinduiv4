@@ -1,0 +1,34 @@
+{
+  "title": "Layout – Containers",
+  "slug": "layout/containers",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "constrained-to-breakpoint-with-padded-content",
+      "label": "Constrained To Breakpoint With Padded Content",
+      "file": "constrained_to_breakpoint_with_padded_content.html"
+    },
+    {
+      "id": "constrained-with-padded-content",
+      "label": "Constrained With Padded Content",
+      "file": "constrained_with_padded_content.html"
+    },
+    {
+      "id": "full-width-on-mobile-constrained-to-breakpoint-with-padded-content-above-mobile",
+      "label": "Full Width On Mobile Constrained To Breakpoint With Padded Content Above Mobile",
+      "file": "full_width_on_mobile__constrained_to_breakpoint_with_padded_content_above_mobile.html"
+    },
+    {
+      "id": "full-width-on-mobile-constrained-with-padded-content-above",
+      "label": "Full Width On Mobile Constrained With Padded Content Above",
+      "file": "full_width_on_mobile__constrained_with_padded_content_above.html"
+    },
+    {
+      "id": "narrow-constrained-with-padded-content",
+      "label": "Narrow Constrained With Padded Content",
+      "file": "narrow_constrained_with_padded_content.html"
+    }
+  ],
+  "props": {}
+}

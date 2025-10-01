@@ -1,0 +1,44 @@
+{
+  "title": "Sections – Blog Sections",
+  "slug": "sections/blog-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "single-column-with-images",
+      "label": "Single Column With Images",
+      "file": "single_column_with_images.html"
+    },
+    {
+      "id": "single-column",
+      "label": "Single Column",
+      "file": "single_column.html"
+    },
+    {
+      "id": "three-column-with-background-images",
+      "label": "Three Column With Background Images",
+      "file": "three_column_with_background_images.html"
+    },
+    {
+      "id": "three-column-with-images",
+      "label": "Three Column With Images",
+      "file": "three_column_with_images.html"
+    },
+    {
+      "id": "three-column",
+      "label": "Three Column",
+      "file": "three_column.html"
+    },
+    {
+      "id": "with-featured-post",
+      "label": "With Featured Post",
+      "file": "with_featured_post.html"
+    },
+    {
+      "id": "with-photo-and-list",
+      "label": "With Photo And List",
+      "file": "with_photo_and_list.html"
+    }
+  ],
+  "props": {}
+}

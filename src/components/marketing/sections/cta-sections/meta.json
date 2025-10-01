@@ -1,0 +1,64 @@
+{
+  "title": "Sections – CTA Sections",
+  "slug": "sections/cta-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "centered-on-dark-panel",
+      "label": "Centered On Dark Panel",
+      "file": "centered_on_dark_panel.html"
+    },
+    {
+      "id": "dark-panel-with-app-screenshot",
+      "label": "Dark Panel With App Screenshot",
+      "file": "dark_panel_with_app_screenshot.html"
+    },
+    {
+      "id": "simple-centered-on-brand",
+      "label": "Simple Centered On Brand",
+      "file": "simple_centered_on_brand.html"
+    },
+    {
+      "id": "simple-centered-on-dark",
+      "label": "Simple Centered On Dark",
+      "file": "simple_centered_on_dark.html"
+    },
+    {
+      "id": "simple-centered",
+      "label": "Simple Centered",
+      "file": "simple_centered.html"
+    },
+    {
+      "id": "simple-justified-on-light-brand",
+      "label": "Simple Justified On Light Brand",
+      "file": "simple_justified_on_light_brand.html"
+    },
+    {
+      "id": "simple-justified",
+      "label": "Simple Justified",
+      "file": "simple_justified.html"
+    },
+    {
+      "id": "simple-stacked",
+      "label": "Simple Stacked",
+      "file": "simple_stacked.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "two-columns-with-photo-on-dark",
+      "label": "Two Columns With Photo On Dark",
+      "file": "two_columns_with_photo_on_dark.html"
+    },
+    {
+      "id": "with-image-tiles",
+      "label": "With Image Tiles",
+      "file": "with_image_tiles.html"
+    }
+  ],
+  "props": {}
+}

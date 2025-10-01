@@ -1,0 +1,64 @@
+{
+  "title": "Navigation – Navbars",
+  "slug": "navigation/navbars",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "dark-with-quick-action",
+      "label": "Dark With Quick Action",
+      "file": "dark_with_quick_action.html"
+    },
+    {
+      "id": "dark-with-search",
+      "label": "Dark With Search",
+      "file": "dark_with_search.html"
+    },
+    {
+      "id": "simple-dark-with-menu-button-on-left",
+      "label": "Simple Dark With Menu Button On Left",
+      "file": "simple_dark_with_menu_button_on_left.html"
+    },
+    {
+      "id": "simple-dark",
+      "label": "Simple Dark",
+      "file": "simple_dark.html"
+    },
+    {
+      "id": "simple-with-menu-button-on-left",
+      "label": "Simple With Menu Button On Left",
+      "file": "simple_with_menu_button_on_left.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-centered-search-and-secondary-links-dark",
+      "label": "With Centered Search And Secondary Links Dark",
+      "file": "with_centered_search_and_secondary_links_dark.html"
+    },
+    {
+      "id": "with-centered-search-and-secondary-links",
+      "label": "With Centered Search And Secondary Links",
+      "file": "with_centered_search_and_secondary_links.html"
+    },
+    {
+      "id": "with-quick-action",
+      "label": "With Quick Action",
+      "file": "with_quick_action.html"
+    },
+    {
+      "id": "with-search-in-column-layout",
+      "label": "With Search In Column Layout",
+      "file": "with_search_in_column_layout.html"
+    },
+    {
+      "id": "with-search",
+      "label": "With Search",
+      "file": "with_search.html"
+    }
+  ],
+  "props": {}
+}

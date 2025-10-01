@@ -1,0 +1,59 @@
+{
+  "title": "Sections – Stats Sections",
+  "slug": "sections/stats-sections",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-grid-on-dark",
+      "label": "Simple Grid On Dark",
+      "file": "simple_grid_on_dark.html"
+    },
+    {
+      "id": "simple-grid",
+      "label": "Simple Grid",
+      "file": "simple_grid.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "stepped",
+      "label": "Stepped",
+      "file": "stepped.html"
+    },
+    {
+      "id": "timeline",
+      "label": "Timeline",
+      "file": "timeline.html"
+    },
+    {
+      "id": "with-background-image",
+      "label": "With Background Image",
+      "file": "with_background_image.html"
+    },
+    {
+      "id": "with-description",
+      "label": "With Description",
+      "file": "with_description.html"
+    },
+    {
+      "id": "with-two-column-description-on-dark",
+      "label": "With Two Column Description On Dark",
+      "file": "with_two_column_description_on_dark.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Components – Product Lists",
+  "slug": "components/product-lists",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "card-with-full-details",
+      "label": "Card With Full Details",
+      "file": "card_with_full_details.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "with-border-grid",
+      "label": "With Border Grid",
+      "file": "with_border_grid.html"
+    },
+    {
+      "id": "with-color-swatches-and-horizontal-scrolling",
+      "label": "With Color Swatches And Horizontal Scrolling",
+      "file": "with_color_swatches_and_horizontal_scrolling.html"
+    },
+    {
+      "id": "with-cta-link",
+      "label": "With CTA Link",
+      "file": "with_cta_link.html"
+    },
+    {
+      "id": "with-image-overlay-and-add-button",
+      "label": "With Image Overlay And Add Button",
+      "file": "with_image_overlay_and_add_button.html"
+    },
+    {
+      "id": "with-inline-price-and-cta-link",
+      "label": "With Inline Price And CTA Link",
+      "file": "with_inline_price_and_cta_link.html"
+    },
+    {
+      "id": "with-inline-price",
+      "label": "With Inline Price",
+      "file": "with_inline_price.html"
+    },
+    {
+      "id": "with-supporting-text",
+      "label": "With Supporting Text",
+      "file": "with_supporting_text.html"
+    },
+    {
+      "id": "with-tall-images-and-cta-link",
+      "label": "With Tall Images And CTA Link",
+      "file": "with_tall_images_and_cta_link.html"
+    },
+    {
+      "id": "with-tall-images",
+      "label": "With Tall Images",
+      "file": "with_tall_images.html"
+    }
+  ],
+  "props": {}
+}

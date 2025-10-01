@@ -1,0 +1,29 @@
+{
+  "title": "Navigation – Breadcrumbs",
+  "slug": "navigation/breadcrumbs",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "contained",
+      "label": "Contained",
+      "file": "contained.html"
+    },
+    {
+      "id": "full-width-bar",
+      "label": "Full Width Bar",
+      "file": "full_width_bar.html"
+    },
+    {
+      "id": "simple-with-chevrons",
+      "label": "Simple With Chevrons",
+      "file": "simple_with_chevrons.html"
+    },
+    {
+      "id": "simple-with-slashes",
+      "label": "Simple With Slashes",
+      "file": "simple_with_slashes.html"
+    }
+  ],
+  "props": {}
+}

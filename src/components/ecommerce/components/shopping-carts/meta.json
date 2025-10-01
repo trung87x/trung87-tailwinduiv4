@@ -1,0 +1,39 @@
+{
+  "title": "Components – Shopping Carts",
+  "slug": "components/shopping-carts",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "modal",
+      "label": "Modal",
+      "file": "modal.html"
+    },
+    {
+      "id": "popover",
+      "label": "Popover",
+      "file": "popover.html"
+    },
+    {
+      "id": "single-column",
+      "label": "Single Column",
+      "file": "single_column.html"
+    },
+    {
+      "id": "slide-over",
+      "label": "Slide Over",
+      "file": "slide_over.html"
+    },
+    {
+      "id": "two-column-with-quantity-dropdown",
+      "label": "Two Column With Quantity Dropdown",
+      "file": "two_column_with_quantity_dropdown.html"
+    },
+    {
+      "id": "with-extended-summary",
+      "label": "With Extended Summary",
+      "file": "with_extended_summary.html"
+    }
+  ],
+  "props": {}
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Forms – Sign In Forms",
+  "slug": "forms/sign-in-forms",
+  "category": "application-ui",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple-card",
+      "label": "Simple Card",
+      "file": "simple_card.html"
+    },
+    {
+      "id": "simple-no-labels",
+      "label": "Simple No Labels",
+      "file": "simple_no_labels.html"
+    },
+    {
+      "id": "simple-on-dark",
+      "label": "Simple On Dark",
+      "file": "simple_on_dark.html"
+    },
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "split-screen",
+      "label": "Split Screen",
+      "file": "split_screen.html"
+    }
+  ],
+  "props": {}
+}

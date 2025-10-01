@@ -1,0 +1,34 @@
+{
+  "title": "Components – Product Overviews",
+  "slug": "components/product-overviews",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "with-image-gallery-and-expandable-details",
+      "label": "With Image Gallery And Expandable Details",
+      "file": "with_image_gallery_and_expandable_details.html"
+    },
+    {
+      "id": "with-image-grid",
+      "label": "With Image Grid",
+      "file": "with_image_grid.html"
+    },
+    {
+      "id": "with-tabs",
+      "label": "With Tabs",
+      "file": "with_tabs.html"
+    },
+    {
+      "id": "with-tiered-images",
+      "label": "With Tiered Images",
+      "file": "with_tiered_images.html"
+    }
+  ],
+  "props": {}
+}

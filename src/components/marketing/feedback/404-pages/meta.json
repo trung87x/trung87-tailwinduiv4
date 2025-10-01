@@ -1,0 +1,34 @@
+{
+  "title": "Feedback – 404 Pages",
+  "slug": "feedback/404-pages",
+  "category": "marketing",
+  "tags": [],
+  "variants": [
+    {
+      "id": "simple",
+      "label": "Simple",
+      "file": "simple.html"
+    },
+    {
+      "id": "split-with-image",
+      "label": "Split With Image",
+      "file": "split_with_image.html"
+    },
+    {
+      "id": "with-background-image",
+      "label": "With Background Image",
+      "file": "with_background_image.html"
+    },
+    {
+      "id": "with-navbar-and-footer",
+      "label": "With Navbar And Footer",
+      "file": "with_navbar_and_footer.html"
+    },
+    {
+      "id": "with-popular-pages",
+      "label": "With Popular Pages",
+      "file": "with_popular_pages.html"
+    }
+  ],
+  "props": {}
+}

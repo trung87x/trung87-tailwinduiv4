@@ -1,0 +1,49 @@
+{
+  "title": "Components – Incentives",
+  "slug": "components/incentives",
+  "category": "ecommerce",
+  "tags": [],
+  "variants": [
+    {
+      "id": "2x2-grid-with-illustrations",
+      "label": "2x2 Grid With Illustrations",
+      "file": "2x2_grid_with_illustrations.html"
+    },
+    {
+      "id": "3-column-with-icons-and-supporting-text",
+      "label": "3 Column With Icons And Supporting Text",
+      "file": "3_column_with_icons_and_supporting_text.html"
+    },
+    {
+      "id": "3-column-with-icons",
+      "label": "3 Column With Icons",
+      "file": "3_column_with_icons.html"
+    },
+    {
+      "id": "3-column-with-illustrations-and-centered-text",
+      "label": "3 Column With Illustrations And Centered Text",
+      "file": "3_column_with_illustrations_and_centered_text.html"
+    },
+    {
+      "id": "3-column-with-illustrations-and-header",
+      "label": "3 Column With Illustrations And Header",
+      "file": "3_column_with_illustrations_and_header.html"
+    },
+    {
+      "id": "3-column-with-illustrations-and-heading",
+      "label": "3 Column With Illustrations And Heading",
+      "file": "3_column_with_illustrations_and_heading.html"
+    },
+    {
+      "id": "3-column-with-illustrations-and-split-header",
+      "label": "3 Column With Illustrations And Split Header",
+      "file": "3_column_with_illustrations_and_split_header.html"
+    },
+    {
+      "id": "4-column-with-illustrations",
+      "label": "4 Column With Illustrations",
+      "file": "4_column_with_illustrations.html"
+    }
+  ],
+  "props": {}
+}
